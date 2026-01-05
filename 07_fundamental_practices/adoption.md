@@ -27,6 +27,7 @@ Adoption refines:
 - Intimate access to God without fear or performance
 - Decreased orphaned self-protection loops
 - Secure attachment patterns that support trustful dependence
+- Stabilised peace in filial belonging (**Peace / Eirene**)
 - Participation in Koinonia as family communion (**Koinonia**)
 
 ### Layer Effects

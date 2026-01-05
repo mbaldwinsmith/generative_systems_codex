@@ -55,6 +55,7 @@ This is a garden of chapels, not a rulebook.
 | Metanoia (Repentance) | `metanoia.md` |
 | Nepsis (Watchful sobriety) | `nepsis.md` |
 | Obedience | `obedience.md` |
+| Peace | `peace.md` |
 | Original Sin | `original_sin.md` |
 | Prayer | `prayer.md` |
 | Predestination | `predestination.md` |

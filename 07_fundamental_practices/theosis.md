@@ -39,6 +39,7 @@ Theosis is always mediated in Christ and given by grace; it is participation, no
 - Stabilised, healed attractor landscapes and reduced distortion
 - Expanded relational presence marked by mercy, truth, and patience
 - Increased coherence without loss of creaturely boundaries
+- Deepened peace as healed participation in God (**Peace / Eirene**)
 - Greater capacity for communion that protects the vulnerable
 
 ### Layer Effects
