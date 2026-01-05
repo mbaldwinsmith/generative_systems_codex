@@ -1,53 +1,49 @@
 # Sophia (Σοφία / Sapientia)
 
 ## One-Line Definition  
-Sophia is the living coherence of creation as it exists, is sustained, and is healed in the Logos — the divine Wisdom by which God knows, loves, and orders the world toward communion.
+Sophia is divine Wisdom as the living coherence of God’s own life (*Divine Sophia*) and the creaturely form of that Wisdom in creation (*Created Sophia*), by which the Logos orders, sustains, and heals the world toward communion.
 
 ---
 
 ## Formal Operator  
-Sophia is the **creational coherence field** — the Logos-expressed form of divine life as it becomes the inner grammar of creation itself.
 
-Sophia = Logos → Creation_as_Coherent_Form
+Sophia names the Logos-expressed coherence of divine life and its creaturely manifestation in creation.
 
-or in convergence grammar:
+**Divine Sophia**
+Sophia_divine = Coherence_of_Divine_Life_in_Logos
 
-Creation ⊂ Sophia(Logos)
+**Created Sophia**
+Creation ⊂ Sophia_created(Logos)
 
 
 Meaning:
 
-All created being exists *within* the Logos-expressed coherence of divine Wisdom.  
-Sophia is not an idea God has about creation — **Sophia is how creation exists in God and toward God.**
-
-In Bulgakov’s terms (translated into Codex grammar):
-
-- Logos = the personal Divine Word  
-- Sophia = the Logos-expressed form of divine life as it becomes the inner grammar of the world  
-- Creation exists *inside* Sophia as its coherence field
+• Divine Sophia is God’s own living Wisdom — the inner coherence of divine life.  
+• Created Sophia is the world as it exists *in* and *through* that Wisdom — creation’s creaturely form of divine coherence.
 
 Sophia is therefore:
 
-• not a fourth hypostasis  
-• not a metaphor  
-• not an abstract order principle  
-but the **creaturely form of divine life in the Logos** — creation’s inner truth.
+- not a fourth hypostasis  
+- not a metaphysical substance  
+- not an impersonal cosmic force  
+
+but the **Logos-expressed coherence of divine life and its creaturely manifestation** — creation’s inner truth in Christ.
 
 ---
 
 ## Inputs
 - The Divine Logos  
-- God’s self-giving creative will  
-- Creation as intended-for-communion  
-- Human participation in Christ  
-- Grace-opened perception and participation
+- Divine Sophia (God’s own living Wisdom)  
+- Creation as created Sophia (creaturely participation in divine Wisdom)  
+- Grace-opened participation in Christ  
+- Human reception and formation
 
 ---
 
 ## Outputs
 - Creation held in intelligibility, beauty, and order  
 - Coherent participation between God and world  
-- The possibility of sanctification and deification  
+- A cosmic field for sanctification and theosis  
 - The grammar by which creation can converge into Christ  
 - A healed cosmos capable of communion
 
@@ -61,48 +57,58 @@ but the **creaturely form of divine life in the Logos** — creation’s inner t
 | Logos (L)  | ↑ |
 | Presence (P) | ↑ |
 
-(Sophia is the field in which *all* layers become intelligible.)
+(Sophia is the coherence field in which all layers become intelligible.)
 
 ---
 
 ## What It Heals
-- The false divide between “spiritual” and “material”  
+- The false split between “spiritual” and “material”  
+- Gnostic contempt for bodies and creation  
 - Disenchantment that treats the world as dead mechanism  
-- Gnostic contempt for bodies and matter  
-- The lie that creation is outside God’s care  
-- The reduction of salvation to private spirituality
+- The lie that creation exists outside God’s care  
+- Reduction of salvation to private escape
 
 ---
 
 ## What It Can Damage (If Misused)
 - Pantheistic collapse of God into creation  
 - Gnostic abstraction of Sophia away from Christ  
-- Romanticisation of nature without truth or justice  
-- Loss of personal communion in favour of impersonal “cosmic energy”
+- Romanticisation of nature without justice or truth  
+- Impersonal spiritual cosmologies that erase communion
 
 **Misuse-prevention notes**
+- Divine Sophia and Created Sophia must never be collapsed.  
 - Sophia is never separable from the Logos.  
-- Sophia does not replace Christ — Sophia is creation’s *form in Christ*.  
-- Creation is not God, but lives *within* God’s Wisdom.
+- Creation is not God, but exists *within* God’s Wisdom.
 
 ---
 
 ## What it looks like in practice
-- Seeing the material world as holy, not disposable  
-- Treating bodies, land, time, and labour with reverence  
-- Understanding salvation as cosmic healing, not private escape  
-- Loving beauty as a theological reality  
+- Treating bodies, land, and time as holy  
+- Understanding salvation as cosmic healing  
+- Practicing ecological and social responsibility as spiritual obedience  
+- Loving beauty as theological reality  
 - Participating in Christ as the Wisdom of God (1 Cor 1:24)
 
 ---
 
+## Relation to Core Operators
+- **Incarnation** — Christ enters created Sophia to heal it from within.  
+- **Atonement** — distortion is repaired inside created Sophia through cruciform love.  
+- **Sanctification** — convergence occurs inside the Sophia-field of creation.  
+- **Theosis** — created Sophia is transfigured into fuller participation in divine life.  
+- **Koinonia** — communion becomes possible because creation itself is Wisdom-formed.
+
+---
+
 ## Patristic / Bulgakovian Resonance
-- **St Athanasius** — Creation exists in the Logos as its intelligibility and life.  
-- **St Maximus the Confessor** — The logoi of all things live in the Logos.  
-- **Sergei Bulgakov** — Divine Sophia is the content of God’s life; created Sophia is the world as it exists in God and for God.  
+- **St Maximus the Confessor** — the logoi of all things exist in the Logos.  
+- **St Athanasius** — creation lives in the Logos as its intelligibility and life.  
+- **Sergei Bulgakov** — Divine Sophia is God’s own life; Created Sophia is the world as God’s Wisdom made creaturely.  
 - **St Paul** — Christ is “the Wisdom of God” (1 Cor 1:24).
 
 ---
 
 ## Fails the Cross If…  
-Sophia is separated from Christ, reduced to abstract mysticism, collapsed into nature-worship, or used to bypass truth, justice, and embodied love under pressure.
+Sophia is collapsed into nature-worship, abstract mysticism, or bypass theology, rather than Christ-centred, cruciform healing of creation under pressure.
+
