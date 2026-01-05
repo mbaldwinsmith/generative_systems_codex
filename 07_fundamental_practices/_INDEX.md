@@ -60,6 +60,7 @@ This is a garden of chapels, not a rulebook.
 | Priesthood | `priesthood.md` |
 | Propitiation | `propitiation.md` |
 | Regeneration | `regeneration.md` |
+| Sacrifice | `sacrifice.md` |
 | Sanctification | `sanctification.md` |
 | Scripture | `scripture.md` |
 | Sophia (Wisdom) | `sophia_wisdom.md` |
