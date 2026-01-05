@@ -48,7 +48,6 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Baptism
   - [ ] Eucharist
   - [x] Confession
-  - [ ] Eldership
   - [ ] Authority
   - [ ] Tradition
 - [ ] Define distributed healing and safeguarding pathways.
