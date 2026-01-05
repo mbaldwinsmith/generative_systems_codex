@@ -20,6 +20,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Draft Adoption (Υἱοθεσία / Adoptio) as a Fundamental Practice term.
 - [x] Draft Conversion (Μεταστροφή / Conversio) as a Fundamental Practice term.
 - [x] Draft Mercy (Ἔλεος / Misericordia) as a Fundamental Practice term.
+- [x] Draft Predestination (Προορισμός / Praedestinatio) as a Fundamental Practice term.
 - [ ] Draft Core Operator terms as Fundamental Practices:
   - [x] Justification
   - [x] Sanctification
@@ -62,6 +63,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [ ] Draft governance and accountability patterns for delegated authority (consent, transparency, reporting, external review).
 - [ ] Draft mission-integration guidance for apostolic sending (healing, justice, and mercy in local and global contexts).
 - [ ] Draft election-and-vocation integration guidance for sent-ness, intercession, and grace-bearing beyond the community.
+- [ ] Draft hope-and-vocation integration guidance for predestination and election (open destiny, consented participation, and anti-fatalism).
 - [ ] Draft safeguards against exceptionalism in mission framing (anti-elitism, anti-nationalism, anti-exemption).
 - [ ] Draft iconography accessibility guidance (visual, tactile, low-sensory, and consent-signalled options).
 - [ ] Draft icon integration guidance for worship spaces (placement, pacing, catechesis, and optional participation).
