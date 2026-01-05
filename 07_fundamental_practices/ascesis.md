@@ -6,7 +6,7 @@ Ascesis is gentle, consented training in Christ that removes distortions and sta
 ### Formal Operator
 Ascesis is a disciplined, consent-based constraint and repetition operator that reduces entropy, repairs attractor topology, and increases alignment with the Logos grammar.
 
-A → A′,  xₙ₊₁ = ℒ(xₙ),  entropy ↓,  σ ↑
+A → A′,  xₙ₊₁ = ℒ(xₙ),  entropy ↓,  σ (signal-to-noise ratio) ↑
 
 As a refinement of **Sanctification**, **Nepsis**, and **Kenosis**, Ascesis applies bounded practices that re-train desire toward truthful love without coercion or self-harm.
 
