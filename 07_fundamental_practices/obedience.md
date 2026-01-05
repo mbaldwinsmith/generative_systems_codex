@@ -29,6 +29,7 @@ As a refinement of **Faith**, **Nepsis**, **Koinonia**, and **Ascesis**, Obedien
 - Greater freedom to love under pressure
 - Stabilised participation in communal life without domination
 - Increased signal-to-noise ratio (σ) in discernment
+- Stabilised peace through consented alignment (**Peace / Eirene**)
 
 ### Layer Effects
 | Layer | Δ Effect |

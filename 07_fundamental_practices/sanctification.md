@@ -24,6 +24,7 @@ Sanctification integrates and stabilises: **Justification** (Ground anchoring in
 - Reduced volatility in attractor basins and shame loops
 - Greater freedom to choose truth, repair, and mercy
 - Deepened relational attunement to God and others
+- Stabilised peace as sustained coherence (**Peace / Eirene**)
 - A durable pattern of humble, consented growth
 
 ### Layer Effects

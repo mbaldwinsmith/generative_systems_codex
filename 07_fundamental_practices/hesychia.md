@@ -22,6 +22,7 @@ As a refinement of **Nepsis** and **Kenosis**, Hesychia quiets reactive loops so
 - Stabilised attention
 - Widened relational presence
 - Capacity for listening prayer (**Prayer**)
+- Settled peace through quieted reactivity (**Peace / Eirene**)
 
 ### Layer Effects
 | Layer | Δ Effect |

@@ -24,6 +24,7 @@ As a refinement of **Justification**, **Nepsis**, and **Ascesis**, Metanoia is a
 - Safer pathways for truth-telling (**Confession**)
 - Greater freedom to choose love under pressure
 - Restored capacity for communion
+- Stabilised peace as healed equilibrium (**Peace / Eirene**)
 
 ### Layer Effects
 | Layer | Δ Effect |

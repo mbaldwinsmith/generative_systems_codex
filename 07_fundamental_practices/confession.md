@@ -33,6 +33,7 @@ As a refinement of **Justification**, **Metanoia**, and **Koinonia**, Confession
 - Restored or repaired relational bonds
 - Increased capacity for accountability without fear
 - Gentler, more stable attractor landscape
+- Restored peace through truth in mercy (**Peace / Eirene**)
 
 ---
 

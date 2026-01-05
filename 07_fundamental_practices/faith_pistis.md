@@ -35,6 +35,7 @@ Faith grounds and activates the core flow of salvation as participation:
 - Anchored belonging that reduces fear and self-protection
 - Increased trust and openness to God’s healing action
 - Greater capacity to face truth without collapse
+- A steady peace that resists fear-driven reactivity (**Peace / Eirene**)
 - Willing participation in baptismal and communal life (**Baptism**, **Koinonia**)
 - A stable, gentle orientation toward sanctifying growth over time
 

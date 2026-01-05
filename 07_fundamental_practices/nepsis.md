@@ -24,6 +24,7 @@ As a refinement of **Metanoia**, **Kenosis**, and **Ascesis**, Nepsis protects t
 - Lowered susceptibility to deceptive attractors
 - Greater capacity to choose truthful love under pressure
 - Strengthened pathways toward **Metanoia**
+- A steadier peace that resists fear-driven vigilance (**Peace / Eirene**)
 
 ### Layer Effects
 | Layer | Δ Effect |
