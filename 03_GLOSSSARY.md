@@ -2,6 +2,8 @@
 
 **Alignment** — tuning of attention, desire, and life toward truth, love, and God.
 
+**Assumptive Union Operator** ⊕ — healing union without confusion or domination; the way divine life fully assumes wounded human reality in order to heal it from within.
+
 **Attractor** — a repeated, stabilised pattern of inner life and behaviour.
 
 **Attractor basin / Attractor topology** — the “terrain” of habitual tendencies and stable patterns within a person or community; repair reshapes basin topology toward truthful love and relational coherence.
