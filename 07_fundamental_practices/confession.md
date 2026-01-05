@@ -8,7 +8,7 @@ Confession is consented, truthful naming of sin and harm before God (and, when s
 ## Formal Operator
 Confession is a truth-telling and reconciliation operator that externalises concealed distortion into grace-held reality, allowing repair of conscience and relational bonds.
 
-C(H) : (G, L, P, A) → (G′, L′, P′) where
+C(H) : (G, L, P, A) → (G′, L′, P′, A′) where
 - concealed distortion → named truth
 - shame loops ↓
 - relational rupture ↓
