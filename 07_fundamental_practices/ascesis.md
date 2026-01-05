@@ -70,4 +70,4 @@ As a refinement of **Sanctification**, **Nepsis**, and **Kenosis**, Ascesis appl
 - **St Isaac the Syrian** taught that asceticism without mercy is a distortion of the gospel.
 
 ### Fails the Cross If…
-Ascesis becomes a tool of control, harm, or spiritual status rather than a gentle, consented training in truthful love that protects the weak and honours creaturely limits.
+Ascesis becomes a tool of control, harm, or spiritual status rather than a gentle, consented training in truthful love in the pattern of Christ that protects the weak and honours creaturely limits.
