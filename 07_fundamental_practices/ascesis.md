@@ -47,7 +47,7 @@ As a refinement of **Sanctification**, **Nepsis**, and **Kenosis**, Ascesis appl
 
 **Misuse-prevention notes**
 - Practices must be freely chosen, time-bounded, and reversible.
-- Never intensify discipline when someone is ill, traumatised, or destabilised.
+- Never intensify discipline when someone is ill, traumatised, or destabilised; prioritise rest and care.
 - The Cross forbids harm, domination, or spiritual comparison.
 
 ### What it looks like in practice
