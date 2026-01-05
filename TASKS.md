@@ -125,3 +125,47 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [ ] Create contributor guidelines.
 - [ ] Add versioning and changelog.
 - [ ] Establish stewardship practices.
+
+---
+
+## Cross-Reference Refactor Pass — Batch 1 (Fundamental Practices)
+
+- [x] Updated cross-references in:
+  - `07_fundamental_practices/prayer.md`
+  - `07_fundamental_practices/love_agape.md`
+  - `07_fundamental_practices/scripture.md`
+  - `07_fundamental_practices/grace.md`
+  - `07_fundamental_practices/atonement.md`
+  - `07_fundamental_practices/justification.md`
+  - `07_fundamental_practices/metanoia.md`
+  - `07_fundamental_practices/sanctification.md`
+- [x] Linking patterns applied:
+  - Formal Operator grounding/refinement links (Grace, Atonement, Sacrifice, Love, Tradition, Prayer).
+  - Input/output links for consent safeguards and downstream formation (Spiritual Direction, Confession, Metanoia, Sanctification).
+  - Misuse guardrail links to authority/justice and conscience terms where relevant.
+- [ ] Remaining for next batch:
+  - High-risk pastoral terms: `authority.md`, `priesthood.md`, `conscience_synderesis.md`, `spiritual_direction.md`
+  - Core salvation flow terms: `eucharist.md`, `confession.md`
+  - Other foundational practices: `baptism.md`, `faith_pistis.md`, `koinonia_communion.md`, `nepsis.md`, `ascesis.md`, `fasting.md`, `hesychia.md`, `judgement_krisis.md`, `mercy.md`
+
+---
+
+## Cross-Reference Refactor Pass — Batch 2 (Fundamental Practices)
+
+- [x] Updated cross-references in:
+  - `07_fundamental_practices/authority.md`
+  - `07_fundamental_practices/priesthood.md`
+  - `07_fundamental_practices/conscience_synderesis.md`
+  - `07_fundamental_practices/spiritual_direction.md`
+  - `07_fundamental_practices/confession.md`
+  - `07_fundamental_practices/eucharist.md`
+  - `07_fundamental_practices/baptism.md`
+  - `07_fundamental_practices/koinonia_communion.md`
+- [x] Linking patterns applied:
+  - Formal Operator grounding links (Grace, Atonement, Authority, Love, Judgement/Krisis).
+  - Inputs/outputs tied to shared practices and sacramental flow (Prayer, Scripture, Tradition, Eucharist).
+  - Misuse guardrail links to conscience/authority/directive safeguards.
+- [ ] Remaining for next batch:
+  - Core ascetical terms: `nepsis.md`, `ascesis.md`, `fasting.md`, `hesychia.md`, `vigil.md`, `obedience.md`, `virtue_arete.md`
+  - Discernment/wisdom terms: `discernment_diakrisis.md`, `judgement_krisis.md`, `sophia_wisdom.md`
+  - Salvation-flow terms: `faith_pistis.md`, `mercy.md`, `regeneration.md`, `adoption.md`, `conversion.md`
