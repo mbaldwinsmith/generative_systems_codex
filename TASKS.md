@@ -121,8 +121,3 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [ ] Create contributor guidelines.
 - [ ] Add versioning and changelog.
 - [ ] Establish stewardship practices.
-
----
-
-This is now your living garden plan 🌿  
-Next time you’re ready, we can start planting the first three gold-standard terms.
