@@ -4,7 +4,7 @@
 Baptism is the public, embodied initiation of a person into the Grace field and the healed convergence path in Christ, a cruciform belonging that grounds, names, and begins life in the Church.
 
 ### Formal Operator
-Grounded in **Grace** and **Atonement**, baptism is an ecclesial initiation operator that publicly embeds the person in the Grace field and binds them to the healed convergence grammar of Christ through embodied water-sign and communal confession.
+Grounded in **Grace**, **Truth**, and **Atonement**, and stabilised by **Hope**, baptism is an ecclesial initiation operator that publicly embeds the person in the Grace field and binds them to the healed convergence grammar of Christ through embodied water-sign and communal confession.
 
 H → H₍initiated in Grace-field₎  with  A → A₍healed-convergence path₎,  belonging ↑,  isolation_noise ↓
 
@@ -15,15 +15,19 @@ Baptism activates and stabilises the core operators by making the gift of God’
 - A baptising community acting under Christ’s name
 - Water as embodied, non-magical sign of cleansing and death-to-life passage
 - Public confession of faith (or guardianship vow, where infant baptism is practiced)
+- Reality-aligned naming of consent and belonging (**Truth**)
 - Consent, safeguarding, and pastoral readiness
+- Patient accompaniment for long-arc formation (**Hope**)
 
 ### Outputs
 - Public, embodied belonging to Christ and the Church
 - Initial anchoring in the Grace field and shared reference grammar
 - Activation of the healed convergence path in Christ
 - Entry into communal care, discipleship, and sacramental life
+- Reality-aligned clarity that resists denial and coercion (**Truth**)
 - A visible covenantal marker of mercy, not merit
 - Opened participation toward ongoing communion (**Koinonia**) and table fellowship (**Eucharist**)
+- Perseverance in baptismal identity over time (**Hope**)
 
 ### Layer Effects
 | Layer | Δ Effect |
@@ -49,9 +53,11 @@ Baptism activates and stabilises the core operators by making the gift of God’
 **Misuse-prevention notes**
 - Baptism is never coerced; consent and safeguarding are non-negotiable, especially for the vulnerable.
 - Baptism does not compel God, purchase grace, or guarantee status; it publicly receives God’s gift and opens a life of formation.
+- Truth-telling must protect consent and never become coerced disclosure or public pressure.
 - No person’s dignity is reduced by delayed or absent baptism; pastoral care remains unconditional.
 - Baptism is not a purity boundary or ranking signal; it is a door into shared mercy and accountable love.
 - If baptismal language increases fear, shame, or pressure, stop and return to rest, prayer, and gentle pastoral care.
+- If baptism becomes a timeline pressure, return to **Hope** and patient accompaniment.
 
 ### What it looks like in practice
 - A community names the person by name and welcomes them without performance tests.

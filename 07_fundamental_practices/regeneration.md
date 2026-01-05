@@ -4,7 +4,7 @@
 Regeneration is grace-initiated, consented interior re-animation in which new life arises within the existing person, opening fresh coherence basins and a receptive capacity to live from Christ’s life rather than from fear.
 
 ### Formal Operator
-Regeneration is the Spirit’s gentle re-animation of interior life within the same person, enabled by the healed ground of atonement and received in faith, such that new coherence basins emerge, desire and attention reorient toward Christ, and relational receptivity widens.
+Regeneration is the Spirit’s gentle re-animation of interior life within the same person, enabled by the healed ground of atonement, received in faith, clarified by **Truth**, and stabilised by **Hope**, such that new coherence basins emerge, desire and attention reorient toward Christ, and relational receptivity widens.
 
 H = (G, L, P, A, σ, Φ)
 
@@ -23,17 +23,21 @@ Regeneration never overwrites personhood; it vivifies and heals the existing sel
 - The human system H = (G, L, P, A)
 - Grace as gift-field, not transaction
 - The healed ground of atonement (no condemnation)
+- Reality-aligned naming of what is being healed (**Truth**)
 - Faith as consenting trust (**Faith**)
 - Baptismal initiation (as public, embodied entry into the life of Christ) (**Baptism**)
 - Metanoia as attractor repair and openness to new pathways (**Metanoia**)
+- Long-arc patience for new life to take root (**Hope**)
 
 ### Outputs
 - Interior life re-animated within the existing person
 - New coherence basins that support truthful love under pressure
 - Reoriented desire and attention toward Christ
+- Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Increased relational receptivity to God and neighbor
 - Stabilised peace as a healed baseline state (**Peace / Eirene**)
 - A new beginning that stabilises into sanctification over time
+- Perseverance through slow integration (**Hope**)
 
 ### Layer Effects
 | Layer | Δ Effect |
@@ -60,8 +64,10 @@ Regeneration never overwrites personhood; it vivifies and heals the existing sel
 - Regeneration is never a mechanical “soul replacement.” It is new life arising within the existing person.
 - No one may be pressured into “regenerating experiences.” Consent, safety, and readiness are required.
 - Regeneration does not erase memory, trauma history, or identity continuity; it heals within them.
+- Truth-telling must protect consent and never become coercive exposure.
 - Emotional pressure, altar-call manipulation, or shame-driven conformity violate the Gospel.
 - Regeneration is a gift, not a test; it never becomes a ranking system.
+- If hope collapses into urgency or despair, return to **Hope** and gentle pacing.
 
 ### What it looks like in practice
 - A person experiences a gentle, unforced sense of being met by God and begins to desire Christ without coercion.

@@ -6,7 +6,7 @@ Spiritual direction is companioned discernment in grace that walks alongside a p
 ---
 
 ## Formal Operator
-Spiritual direction is a companioned discernment operator, grounded in **Grace** and **Prayer**, that clarifies attractors, supports conscience, and guides gentle convergence toward Christ without authority over the soul.
+Spiritual direction is a companioned discernment operator, grounded in **Grace**, **Prayer**, and **Truth**, and stabilised by **Hope**, that clarifies attractors, supports conscience, and guides gentle convergence toward Christ without authority over the soul.
 
 SD(H_p, H_c) : (G, L, P, A, σ)_p → (G′, L′, P′, A′, σ′)_p where
 - companioned discernment: Discernment (Diakrisis) is held with a trusted companion (H_c) in grace
@@ -29,6 +29,8 @@ As a refinement of **Grace**, **Discernment (Diakrisis)**, **Conscience**, **Met
 - The human system H_p = (G, L, P, A, σ)
 - A trusted, trained companion (H_c) committed to humility and consent
 - Prayerful attentiveness and Scripture as public reference field
+- Reality-aligned naming without coercion (**Truth**)
+- Future-stability for slow healing and long arcs (**Hope**)
 - Rest, time, and embodied grounding
 - Safeguarding structures and, when needed, professional care
 
@@ -39,6 +41,8 @@ As a refinement of **Grace**, **Discernment (Diakrisis)**, **Conscience**, **Met
 - Increased attractor clarity and reduced reactive drift
 - Gentle guidance into repair pathways and metanoia
 - Strengthened conscience and discernment without shame
+- Reality-aligned clarity that protects consent and peace (**Truth**)
+- Perseverance in formation without pressure or despair (**Hope**)
 - Deepened peace and relational safety
 
 ---
@@ -74,7 +78,9 @@ As a refinement of **Grace**, **Discernment (Diakrisis)**, **Conscience**, **Met
 - Consent is required at every step; the directee sets pace and scope.
 - Confidentiality and privacy are pastoral goods; no forced disclosure.
 - Any “word” must be tested against Scripture, peace, and conscience.
+- Truth-telling must protect consent and never become coercive disclosure.
 - If pressure, fear, or shame increases, pause and return to grounding and care.
+- If the process creates urgency or burnout, return to **Hope** and slower pacing.
 - Direction never replaces safeguarding, therapy, or medical care.
 
 ---

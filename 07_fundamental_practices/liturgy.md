@@ -6,7 +6,7 @@ Liturgy is the shared, time-structured prayerful work of the Church that stabili
 ---
 
 ## Formal Operator
-Liturgy is a temporal–communal convergence stabilisation operator that entrains attention, desire, and memory toward the Logos grammar across time, season, and generation through embodied, shared prayer.
+Liturgy is a temporal–communal convergence stabilisation operator, grounded in **Truth** and stabilised by **Hope**, that entrains attention, desire, and memory toward the Logos grammar across time, season, and generation through embodied, shared prayer.
 
 L(H₁…Hₙ, t) : {Hᵢ} → {Hᵢ′}
 
@@ -30,8 +30,10 @@ Liturgy refines and stabilises:
 - The human systems Hᵢ = (G, L, P, A)
 - Shared rhythms, calendar, and place
 - Scripture, psalmody, silence, and sacramental signs (**Scripture**, **Eucharist**)
+- Reality-aligned naming of confession and praise (**Truth**)
 - Consent, safeguarding, and gentle leadership
 - Time, repetition, and patient participation
+- Future-stability that allows slow formation (**Hope**)
 
 ---
 
@@ -40,7 +42,9 @@ Liturgy refines and stabilises:
 - Entrainment of attention, desire, and memory toward Christ
 - Embodied formation of the whole person
 - Reduced drift and fragmentation in shared life
+- Reality-aligned communal clarity that resists denial and bypass (**Truth**)
 - A durable reference field for discernment and belonging (**Discernment / Diakrisis**)
+- Perseverance in communal worship without burnout (**Hope**)
 
 ---
 
@@ -75,7 +79,9 @@ Liturgy refines and stabilises:
 - Beauty serves love; it never becomes a gatekeeping standard.
 - Liturgy must be accessible in language, pace, posture, and space.
 - Leaders never weaponise ritual to control conscience or behavior.
+- Truth-telling in worship must protect consent and never become coerced disclosure.
 - Rest, grief, and limits are honored as part of worship.
+- If liturgical pressure builds, return to **Hope** and gentler pacing.
 
 ---
 

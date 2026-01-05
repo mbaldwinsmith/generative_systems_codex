@@ -6,7 +6,7 @@ Faith is trustful participation in and consented reliance upon God’s faithful 
 ---
 
 ## Formal Operator
-Faith is a relational-trust operator that turns the person toward God in consented reliance, activating participation in the gift-field of grace and the convergence grammar of Christ.
+Faith is a relational-trust operator, grounded in **Truth** and stabilised by **Hope**, that turns the person toward God in consented reliance, activating participation in the gift-field of grace and the convergence grammar of Christ.
 
 Faith = trustful_participation(God) with consented_reliance → coupling ↑, σ ↑, A_opened toward healed convergence
 
@@ -26,8 +26,10 @@ Faith grounds and activates the core flow of salvation as participation:
 - A human person H = (G, L, P, A) as they are
 - God’s self-giving initiative in Christ
 - Consent to rely on God without performance proofs
+- Reality-aligned naming without denial (**Truth**)
 - A community of support and truthful care (where available) (**Koinonia**)
 - Time, patience, and space for doubt without shame
+- Future-stability that makes slow trust faithful (**Hope**)
 
 ---
 
@@ -35,9 +37,11 @@ Faith grounds and activates the core flow of salvation as participation:
 - Anchored belonging that reduces fear and self-protection
 - Increased trust and openness to God’s healing action
 - Greater capacity to face truth without collapse
+- Reality-aligned clarity that resists bypass or coercion (**Truth**)
 - A steady peace that resists fear-driven reactivity (**Peace / Eirene**)
 - Willing participation in baptismal and communal life (**Baptism**, **Koinonia**)
 - A stable, gentle orientation toward sanctifying growth over time
+- Perseverance without urgency or despair (**Hope**)
 
 ---
 
@@ -71,8 +75,10 @@ Faith grounds and activates the core flow of salvation as participation:
 - Faith cannot be compelled; consent is essential and non-negotiable.
 - Doubt is not disobedience; it is often part of honest trust formation.
 - Faith is not measured by intensity, certainty, or visible performance.
+- Truth-telling must protect consent and never become a coercive demand for certainty.
 - No one is denied care, belonging, or safety because of questions.
 - If faith-language increases fear, shame, or pressure, return to rest, prayer, and pastoral support.
+- If hope collapses, return to **Hope** and slow, gentle trust.
 
 ---
 

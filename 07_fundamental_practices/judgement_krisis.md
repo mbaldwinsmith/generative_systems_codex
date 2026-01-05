@@ -6,7 +6,7 @@ Judgement (krisis) is God’s truthful, merciful discernment that separates life
 ---
 
 ## Formal Operator
-Grounded in **Mercy** and aligned with **Discernment (Diakrisis)**, judgement is a truth-separating and coherence-clarifying operator that illuminates distortion, differentiates life-giving from life-destroying patterns, and protects communion by confronting harm. It is ordered toward **Peace (Eirene)** as justice-compatible stability: truthful love under pressure that restores relational safety.
+Grounded in **Truth** and **Mercy**, stabilised by **Hope**, and aligned with **Discernment (Diakrisis)**, judgement is a truth-separating and coherence-clarifying operator that illuminates distortion, differentiates life-giving from life-destroying patterns, and protects communion by confronting harm. It is ordered toward **Peace (Eirene)** as justice-compatible stability: truthful love under pressure that restores relational safety.
 
 J(H) : (G, L, P, A) → (G′, L′, P′, A′) where
 - distortion → named and distinguished from identity
@@ -27,6 +27,8 @@ As a refinement of **Metanoia**, **Confession**, **Sanctification**, **Authority
 ## Inputs
 - The human system H = (G, L, P, A)
 - Truthful light and mercy (**Prayer**, **Mercy**)
+- Reality-alignment that exposes distortion without shame (**Truth**)
+- Future-oriented patience that resists despair (**Hope**)
 - Consent, safeguarding, and proportionality
 - Accountable communal processes (when harm affects others)
 - Time, rest, and embodied grounding
@@ -38,6 +40,8 @@ As a refinement of **Metanoia**, **Confession**, **Sanctification**, **Authority
 - Clearer boundaries between life-giving and life-destroying patterns
 - Pathways opened for repentance and repair (**Metanoia**, **Confession**)
 - Reduced confusion and moral fog
+- Reality-aligned clarity that resists denial and bypass (**Truth**)
+- Perseverance in repair without despair (**Hope**)
 - Safer, more truthful communion
 - Stabilised peace through justice and mercy (**Peace / Eirene**)
 
@@ -74,8 +78,10 @@ As a refinement of **Metanoia**, **Confession**, **Sanctification**, **Authority
 - Consent, proportionality, accountability, and safeguarding are non-negotiable.
 - Human discernment is partial and must be held with humility, peer review, and correction.
 - Public exposure is not a virtue; privacy and dignity are protective goods.
+- Truth-telling must protect consent and never be used to shame or control.
 - Discipline is restorative, not retributive; it aims at repair and protection.
 - If judgement destroys peace, safety, or dignity, it has become coercive distortion and must stop.
+- If judgement language increases despair or urgency, return to **Hope**, **Prayer**, and patient accompaniment.
 
 ---
 

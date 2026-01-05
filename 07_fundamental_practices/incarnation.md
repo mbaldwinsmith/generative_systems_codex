@@ -6,7 +6,7 @@ Incarnation is God’s self-giving entry into human wounded reality, fully assum
 ---
 
 ## Formal Operator  
-Grounded in **Grace** and fulfilling **Atonement**, incarnation is the divine Logos entering the human coherence field, uniting God’s life to full human nature without disguise, so that healing begins from inside the creaturely condition.
+Grounded in **Grace**, **Truth**, and fulfilling **Atonement**, and stabilised by **Hope**, incarnation is the divine Logos entering the human coherence field, uniting God’s life to full human nature without disguise, so that healing begins from inside the creaturely condition.
 
 Logos ⊕ H_wounded → H_in_Christ
 
@@ -24,8 +24,10 @@ Incarnation grounds **Grace** (gift comes first because God has come near), **At
 - The divine initiative of God’s self-giving love  
 - Full assumption of human nature, including woundedness  
 - Embodied limitation: hunger, fatigue, vulnerability, mortality  
+- Reality-aligned naming of embodied truth (**Truth**)  
 - Human history, culture, and particularity  
 - Consent to receive God’s nearness in ordinary life
+- Long-arc patience for embodied healing (**Hope**)
 
 ---
 
@@ -35,7 +37,9 @@ Incarnation grounds **Grace** (gift comes first because God has come near), **At
 - Restored dignity for bodies and creaturely limits  
 - A concrete, non-abstract basis for grace, atonement, sanctification, and communion  
 - A stable reference field for truthful love under pressure
+- Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Opened participation in shared life (**Koinonia**)
+- Perseverance in embodied repair without despair (**Hope**)
 
 ---
 
@@ -68,8 +72,10 @@ Incarnation grounds **Grace** (gift comes first because God has come near), **At
 **Misuse-prevention notes**
 - Incarnation does not sanctify abuse; it sanctifies the vulnerable.  
 - God’s suffering in Christ is not a mandate to tolerate harm or silence truth.  
+- Truth-telling must protect consent and never become coercive exposure or pressure.  
 - Embodied limits are holy; rest and care are part of faithfulness.  
 - Any teaching that despises bodies or denies reality fails the Incarnation.
+- If incarnation language pressures endurance without safety, return to **Hope** and gentle pacing.
 
 ---
 

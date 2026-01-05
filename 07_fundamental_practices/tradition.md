@@ -6,7 +6,7 @@ Tradition is the living, communal transmission of life in Christ through time �
 ---
 
 ## Formal Operator
-Grounded in **Scripture** and enacted in **Liturgy**, tradition is a temporal–communal coherence-preservation operator that stabilises identity, worship, and moral formation by carrying the Logos grammar across generations and guarding communities from drift, amnesia, and novelty-driven distortion.
+Grounded in **Scripture**, **Truth**, and enacted in **Liturgy**, and stabilised by **Hope**, tradition is a temporal–communal coherence-preservation operator that stabilises identity, worship, and moral formation by carrying the Logos grammar across generations and guarding communities from drift, amnesia, and novelty-driven distortion.
 
 T(H₁…Hₙ, t, reference_field) : {Hᵢ} → {Hᵢ′}
 
@@ -31,8 +31,10 @@ Tradition refines and stabilises:
 - A shared reference field (**Scripture**, councils, communal discernment, local practices)
 - Communal memory (stories, prayers, saints, and witness)
 - Practices embodied over time (worship, sacraments, habits of mercy)
+- Reality-aligned naming of drift and distortion (**Truth**)
 - Consent, transparency, and safeguarding structures
 - Patience for long formation and gentle repair
+- Future-stability that allows intergenerational healing (**Hope**)
 
 ---
 
@@ -40,8 +42,10 @@ Tradition refines and stabilises:
 - Stabilised communal identity across time
 - Preserved worship and moral formation without rigidity
 - Resilience against drift, amnesia, and novelty-driven distortion
+- Reality-aligned witness that protects conscience and consent (**Truth**)
 - Increased trust in received wisdom without suppressing conscience (**Conscience / Synderesis**)
 - A durable memory field that holds grief, repentance, and hope
+- Perseverance across generations without burnout (**Hope**)
 
 ---
 
@@ -75,7 +79,9 @@ Tradition refines and stabilises:
 - Nostalgia is not fidelity; if memory is used to freeze growth or silence truth, tradition is being misused.
 - Innovation is not faithfulness; novelty must remain accountable to the Logos grammar and communal discernment.
 - Conscience, lament, and prophetic truth are part of faithful transmission, not threats to it.
+- Truth-telling must protect the vulnerable and never become silencing or coercive exposure.
 - Consent is required for participation; no one is coerced into conformity or silenced by fear.
+- If timelines become coercive, return to **Hope** and patient fidelity.
 
 ---
 

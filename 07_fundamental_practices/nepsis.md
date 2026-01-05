@@ -4,7 +4,7 @@
 Nepsis is gentle, consented watchfulness that guards attention, desire, and discernment so the heart stays sober, free, and faithful under pressure.
 
 ### Formal Operator
-Grounded in **Grace** and aligned with **Discernment (Diakrisis)**, nepsis is a safety operator that dampens distortion gradients and stabilises attention without fear-driven hypervigilance, protecting **Peace (Eirene)** as settled coherence under pressure.
+Grounded in **Grace** and **Truth**, stabilised by **Hope**, and aligned with **Discernment (Diakrisis)**, nepsis is a safety operator that dampens distortion gradients and stabilises attention without fear-driven hypervigilance, protecting **Peace (Eirene)** as settled coherence under pressure.
 
 ∇A_entropy → 0, attention_guard ↑, desire_noise ↓, discernment_clarity ↑, σ (signal-to-noise ratio) ↑
 
@@ -13,6 +13,8 @@ As a refinement of **Metanoia**, **Kenosis**, and **Ascesis**, Nepsis protects t
 ### Inputs
 - Consent and readiness
 - A gentle attentional anchor (**Prayer**, **Scripture**)
+- Reality-aligned naming of distortion without panic (**Truth**)
+- Patient endurance when clarity is slow to form (**Hope**)
 - Awareness of limits, trauma history, and embodied signals
 - Community or pastoral support when needed
 - The human system H = (G, L, P, A)
@@ -22,9 +24,11 @@ As a refinement of **Metanoia**, **Kenosis**, and **Ascesis**, Nepsis protects t
 - Reduced reactivity and impulsive drift
 - Stabilised attention and desire
 - Lowered susceptibility to deceptive attractors
+- Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Greater capacity to choose truthful love under pressure
 - Strengthened pathways toward **Metanoia**
 - A steadier peace that resists fear-driven vigilance (**Peace / Eirene**)
+- Perseverance in watchfulness without burnout (**Hope**)
 
 ### Layer Effects
 | Layer | Δ Effect |
@@ -50,8 +54,10 @@ As a refinement of **Metanoia**, **Kenosis**, and **Ascesis**, Nepsis protects t
 - Nepsis is **not** surveillance of the self; it is gentle, consented attentiveness to God.
 - If watchfulness increases fear, tighten the scope, shorten the time, or pause and return to rest.
 - Nepsis is never imposed by leaders, peers, or institutions; consent is non-negotiable.
+- Truth-telling must protect dignity and never become coercive exposure.
 - Shame is a signal to stop and return to grace; Nepsis does not produce or intensify shame.
 - If nepsis increases agitation or destroys peace, it has become distortion and must be simplified.
+- If the practice feeds urgency or despair, return to **Hope** and patient pacing.
 
 ### What it looks like in practice
 - Brief, repeatable check-ins: “Where is my attention? What am I desiring? Where is Christ inviting me?”

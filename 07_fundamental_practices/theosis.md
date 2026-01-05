@@ -4,7 +4,7 @@
 Theosis is grace-given participation in the life of God through Christ, deepening healed resonance with the Logos while preserving the Creator–creature distinction and creaturely limits.
 
 ### Formal Operator
-Theosis is the high-order participation operator in which the human system is drawn, by grace, into cruciform resonance with the Logos grammar without absorption or identity erasure, stabilising **Peace (Eirene)** as healed participation under pressure.
+Theosis is the high-order participation operator, grounded in **Truth** and stabilised by **Hope**, in which the human system is drawn, by grace, into cruciform resonance with the Logos grammar without absorption or identity erasure, stabilising **Peace (Eirene)** as healed participation under pressure.
 
 Θ(H) : H → H′
 
@@ -31,16 +31,20 @@ Theosis is always mediated in Christ and given by grace; it is participation, no
 - Incarnational mediation in Christ (no theosis apart from Christ)
 - Atonement’s healed ground for safe communion
 - Ongoing sanctification and consented practices
+- Reality-aligned naming of limits and consent (**Truth**)
 - Koinonia as shared participation and mutual care
+- Long-arc patience for deep participation (**Hope**)
 - Time, rest, and safeguarding that honour creaturely limits
 
 ### Outputs
 - Deepened participation in divine life through cruciform love
 - Stabilised, healed attractor landscapes and reduced distortion
 - Expanded relational presence marked by mercy, truth, and patience
+- Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Increased coherence without loss of creaturely boundaries
 - Deepened peace as healed participation in God (**Peace / Eirene**)
 - Greater capacity for communion that protects the vulnerable
+- Perseverance in the long arc of participation (**Hope**)
 
 ### Layer Effects
 | Layer | Δ Effect |
@@ -68,8 +72,10 @@ Theosis is always mediated in Christ and given by grace; it is participation, no
 - Theosis never erases personal identity or bodily life; grace heals and fulfils creatureliness.
 - No one is ranked or elevated by “levels” of participation; the Cross forbids spiritual status games.
 - Consent, safety, and safeguarding are non-negotiable; no practice overrides limits.
+- Truth-telling must protect consent and never become coercive exposure or spiritual pressure.
 - Christ alone mediates participation; no human mediator may claim exclusive access.
 - Any claim of theosis that destroys peace or relational safety is false and must be refused.
+- If urgency or despair appears, return to **Hope** and gentle pacing.
 
 ### What it looks like in practice
 - Quiet, thankful prayer that receives God’s gift without striving

@@ -6,7 +6,7 @@ Eucharist is the sacramental participation in Christ’s self-giving life that n
 ---
 
 ## Formal Operator
-Eucharist is a communion–nourishment and convergence-stabilisation operator that renews participation in the Grace field, deepens Koinonia (mutual coupling in Christ), sustains Sanctification (iterative convergence), and embodies Atonement (reconciled communion through Christ’s self-giving). It is ordered toward **Peace (Eirene)** as justice-compatible, communion-forming stability.
+Eucharist is a communion–nourishment and convergence-stabilisation operator, grounded in **Truth** and stabilised by **Hope**, that renews participation in the Grace field, deepens Koinonia (mutual coupling in Christ), sustains Sanctification (iterative convergence), and embodies Atonement (reconciled communion through Christ’s self-giving). It is ordered toward **Peace (Eirene)** as justice-compatible, communion-forming stability.
 
 E(H₁…Hₙ) : {Hᵢ} → {Hᵢ′}
 
@@ -30,8 +30,10 @@ Eucharist refines and stabilises:
 - The human systems Hᵢ = (G, L, P, A)
 - Bread and cup as embodied, non-magical signs of Christ’s self-giving
 - A gathered community with consented participation
+- Reality-aligned naming of consent and belonging (**Truth**)
 - Prayer, thanksgiving, and remembrance within the Church’s shared grammar (**Prayer**, **Scripture**, **Tradition**)
 - Safeguarding, pastoral care, and clear invitation without coercion
+- Patient accompaniment for slow healing and return (**Hope**)
 
 ---
 
@@ -39,9 +41,11 @@ Eucharist refines and stabilises:
 - Nourished communion and stabilised belonging
 - Renewed participation in the Grace field
 - Deepened mutual coupling and shared coherence
+- Reality-aligned clarity that resists denial and coercion (**Truth**)
 - Sustained sanctifying convergence over time
 - Embodied memory of Christ’s self-giving love under pressure
 - Shared peace and stability (**Peace / Eirene**)
+- Perseverance in sacramental life without pressure (**Hope**)
 
 ---
 
@@ -75,9 +79,11 @@ Eucharist refines and stabilises:
 - The table is never a tool for control, ranking, or public shaming.
 - Worthiness language must be used only to invite honest trust, not to exclude or frighten.
 - Participation is always voluntary; no one is pressured into receiving.
+- Truth-telling must protect consent and never become coercive disclosure or shaming.
 - Pastoral care is never withheld as punishment; Eucharist is medicine, not a prize.
 - If Eucharist language increases fear, pressure, or shame, simplify and return to gentle care.
 - Any practice that erodes peace, safety, or consent violates the Cross and must be corrected.
+- If attendance becomes a timeline pressure, return to **Hope** and patient care.
 
 ---
 

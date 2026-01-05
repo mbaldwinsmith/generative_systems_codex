@@ -6,7 +6,7 @@ Confession is consented, truthful naming of sin and harm before God (and, when s
 ---
 
 ## Formal Operator
-Grounded in **Grace** and secured by **Atonement**, confession is a truth-telling and reconciliation operator that externalises concealed distortion into grace-held reality, allowing repair of conscience and relational bonds. It is ordered toward **Peace (Eirene)** as restored relational safety rather than exposure or control.
+Grounded in **Grace**, secured by **Atonement**, guided by **Truth**, and stabilised by **Hope**, confession is a truth-telling and reconciliation operator that externalises concealed distortion into grace-held reality, allowing repair of conscience and relational bonds. It is ordered toward **Peace (Eirene)** as restored relational safety rather than exposure or control.
 
 C(H) : (G, L, P, A) → (G′, L′, P′, A′) where
 - concealed distortion → named truth
@@ -22,7 +22,9 @@ As a refinement of **Justification**, **Metanoia**, and **Koinonia**, Confession
 - The human system H = (G, L, P, A)
 - Consent, safety, and appropriate boundaries
 - A trustworthy context (**Prayer**, pastoral care, or sacred friendship)
+- Reality-aligned naming without self-erasure (**Truth**)
 - Willingness to name truth without self-erasure
+- Future-stability that makes repair possible (**Hope**)
 - Time, rest, and embodied grounding
 
 ---
@@ -33,7 +35,9 @@ As a refinement of **Justification**, **Metanoia**, and **Koinonia**, Confession
 - Restored or repaired relational bonds
 - Increased capacity for accountability without fear
 - Gentler, more stable attractor landscape
+- Reality-aligned clarity that strengthens consent and safeguarding (**Truth**)
 - Restored peace through truth in mercy (**Peace / Eirene**)
+- Perseverance in repair without despair (**Hope**)
 
 ---
 
@@ -67,9 +71,10 @@ As a refinement of **Justification**, **Metanoia**, and **Koinonia**, Confession
 - Confession is never forced; consent is a spiritual and ethical requirement.
 - It is not surveillance or control; it is a healing truth-telling in grace.
 - Power imbalance invalidates consent; leaders must never extract disclosure or require vulnerability as proof of faithfulness.
+- Truth-telling is bounded by consent and safety, never by coercive expectation.
 - Confidentiality is sacred; only lawful safeguarding exceptions apply.
 - Shame is not a tool of holiness; mercy is the atmosphere of confession.
-- If confession increases fear, coercion, or destroys peace, it must stop and return to safety.
+- If confession increases hopelessness or urgency,  or destroys **Peace**, return to **Hope** and gentle pacing.
 
 ---
 
