@@ -100,4 +100,4 @@ As a refinement of **Justification**, **Metanoia**, and **Koinonia**, Confession
 ---
 
 ## Fails the Cross If…
-Confession is used to shame, coerce, expose, or control; if it bypasses safeguarding and consent; or if it turns grace into surveillance rather than truthful love under pressure that protects the vulnerable and restores communion.
+Confession is used to shame, coerce, expose, or control; if it bypasses safeguarding and consent; or if it turns grace into surveillance rather than truthful love in the pattern of Christ under pressure that protects the vulnerable and restores communion.
