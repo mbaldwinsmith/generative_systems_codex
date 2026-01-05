@@ -8,7 +8,7 @@ Atonement is the cruciform repair of distorted reality in which Christ absorbs d
 ## Formal Operator
 Atonement is the cruciform repair operator that absorbs distortion into truthful love, re-couples fractured communion, and restores coherence without bypassing suffering.
 
-D (distortion) + Cross-shaped love → D′ (transmuted),  H → H′,  Field_coherence ↑
+D (distortion) + Cross-shaped love → D′ (transmuted),  H → H′,  Field_coherence ↑ (without retaliation)
 
 In analogical terms: Christ bears distortion without retaliation, reopens communion, and restores truthful love under pressure. This is not a legal transaction; it is restorative, relational repair.
 
@@ -68,7 +68,7 @@ In analogical terms: Christ bears distortion without retaliation, reopens commun
 ---
 
 ## What it looks like in practice
-- Naming that God absorbs our distortion without retaliation and invites repair.
+- Naming that God absorbs our distortion without retaliation and invites repair in mercy.
 - Holding confession with gentleness and consent, not extraction.
 - Refusing revenge while pursuing truth, accountability, and protection.
 - Making space for grief and lament while proclaiming reconciliation.
@@ -77,7 +77,7 @@ In analogical terms: Christ bears distortion without retaliation, reopens commun
 ---
 
 ## How Atonement Grounds Other Core Terms
-- **Grace:** Atonement opens the gift-field where mercy precedes performance; grace flows from Christ’s repair, not from our merit.
+- **Grace:** Atonement opens the gift-field where mercy precedes performance; grace flows from Christ’s cruciform repair, not from our merit.
 - **Justification:** Atonement anchors belonging in Christ’s reconciling act, establishing identity before improvement.
 - **Metanoia:** Atonement creates safety to face truth without collapse, enabling attractor repair.
 - **Confession:** Atonement guarantees that truth-telling is met with mercy, not retaliation.
