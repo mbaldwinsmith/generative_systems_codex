@@ -21,7 +21,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 ## Phase 2 — Ascetical Grammar
 
 - [ ] Formalise core ascetical operators:
-  - [ ] Hesychia (Stillness)
+  - [x] Hesychia (Stillness)
   - [ ] Ascesis (Ascetic practice)
   - [ ] Fasting
   - [ ] Vigil
