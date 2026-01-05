@@ -47,6 +47,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 - [ ] Formalise ecclesial and communal terms:
   - [ ] Liturgy
+  - [x] Baptism
   - [ ] Eucharist
   - [x] Confession
   - [ ] Eldership
