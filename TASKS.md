@@ -37,12 +37,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Nepsis (Watchful sobriety)
   - [x] Vigil
   - [x] Obedience
-- [x] Draft Hamartia (Sin) as coherence distortion and repair pathway.
-- [ ] Map each to one or more Core Operators in 05_CORE_OPERATORS.md.
- - [ ] Add an ascetical grammar index to collect Phase 2 terms and cross-links.
- - [ ] Add Vigil to the ascetical grammar index and cross-link with Faith, Hope, Prayer, and Nepsis.
- - [x] Draft trauma-aware safeguards for fasting (especially eating-disorder risk).
- - [ ] Add Obedience to 07_fundamental_practices/_INDEX.md and the ascetical grammar index.
+  - [x] Hamartia (Sin)
 
 ---
 
@@ -64,7 +59,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 - [ ] Formalise:
   - [ ] Discernment (Diakrisis)
-  - [ ] Wisdom (Sophia)
+  - [x] Wisdom (Sophia)
   - [ ] Conscience
   - [ ] Spiritual Direction
 - [ ] Add pastoral misuse warnings.
