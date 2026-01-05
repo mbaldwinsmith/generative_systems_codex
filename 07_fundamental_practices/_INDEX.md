@@ -51,6 +51,7 @@ This is a garden of chapels, not a rulebook.
 | Liturgy | `liturgy.md` |
 | Love (Agape) | `love_agape.md` |
 | Mercy | `mercy.md` |
+| Mortal Sin | `mortal_sin.md` |
 | Metanoia (Repentance) | `metanoia.md` |
 | Nepsis (Watchful sobriety) | `nepsis.md` |
 | Obedience | `obedience.md` |

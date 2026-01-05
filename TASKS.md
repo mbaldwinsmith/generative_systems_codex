@@ -50,6 +50,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Hamartia (Sin)
   - [x] Depravity (Φθορά / Depravatio)
 - [x] Draft Original Sin (Προπατορικὴ Ἁμαρτία / Peccatum Originale) as a Fundamental Practice term.
+- [x] Draft Mortal Sin (Ἁμαρτία πρὸς θάνατον / Peccatum mortale) as a Fundamental Practice term.
 
 ---
 
