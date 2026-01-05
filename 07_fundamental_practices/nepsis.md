@@ -71,4 +71,4 @@ As a refinement of **Metanoia**, **Kenosis**, and **Ascesis**, Nepsis protects t
 - **St Hesychios the Priest** in the *Philokalia* framed nepsis as humble attention to God’s presence.
 
 ### Fails the Cross If…
-Nepsis becomes fear-driven surveillance, coerced scrutiny, or shame-based control rather than gentle, consenting watchfulness that protects the vulnerable, honours creaturely limits, and keeps truthful love steady under pressure.
+Nepsis becomes fear-driven surveillance, coerced scrutiny, or shame-based control rather than gentle, consenting watchfulness in the pattern of Christ that protects the vulnerable, honours creaturely limits, and keeps truthful love steady under pressure.
