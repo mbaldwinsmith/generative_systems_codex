@@ -57,4 +57,4 @@ As a refinement of **Nepsis** and **Kenosis**, Hesychia quiets reactive loops so
 - **St Gregory Palamas** defended hesychia as a prayerful attentiveness to God, not a technique or escape.
 
 ### Fails the Cross If…
-Stillness becomes a demand for silence, a denial of suffering, or a flight from truthful love under pressure, rather than a gentle, consenting quiet that makes room for Christ.
+Stillness becomes a demand for silence, a denial of suffering, or a flight from truthful love under pressure, rather than a gentle, consenting quiet that makes room for Christ and truthful love.
