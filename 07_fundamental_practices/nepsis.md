@@ -8,7 +8,7 @@ Nepsis is a safety operator that dampens distortion gradients and stabilises att
 
 ∇A_entropy → 0, attention_guard ↑, desire_noise ↓, discernment_clarity ↑, σ (signal-to-noise ratio) ↑
 
-As a refinement of **Metanoia**, **Kenosis**, and **Ascesis**, Nepsis protects the turning of the heart, the emptying of ego-noise, and the gentle training of desire by maintaining watchful sobriety without coercion or anxiety.
+As a refinement of **Metanoia**, **Kenosis**, and **Ascesis**, Nepsis protects the turning of the heart, the emptying of ego-noise, and the gentle training of desire in the pattern of Christ by maintaining watchful sobriety without coercion or anxiety.
 
 ### Inputs
 - Consent and readiness
