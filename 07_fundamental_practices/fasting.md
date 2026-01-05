@@ -45,7 +45,7 @@ As a refinement of **Ascesis**, fasting applies a consented, time-limited constr
 
 **Misuse-prevention notes**
 - Fasting is never mandatory, never a measure of worth, and never a test of holiness.
-- Anyone with a history of eating disorders, disordered eating, or severe body shame should not fast without qualified clinical guidance; abstain if there is any risk.
+- Anyone with a history of eating disorders, disordered eating, or severe body shame should not fast without qualified clinical guidance; abstain if there is any risk of relapse or harm.
 - Fasting must be modified or avoided for medical contraindications (pregnancy, diabetes, chronic illness, medications, recovery, or acute stress). When in doubt, do not fast.
 - If fasting increases anxiety, compulsion, or self-hatred, stop and return to nourishment and simple prayer.
 
@@ -69,4 +69,4 @@ As a refinement of **Ascesis**, fasting applies a consented, time-limited constr
 - **St Isaac the Syrian** emphasised mercy over harshness, framing ascetic practice within compassion.
 
 ### Fails the Cross If…
-Fasting becomes a tool of shame, harm, or spiritual superiority, or if it ignores medical and trauma realities, rather than a gentle, consented practice that opens the heart to truthful love under pressure.
+Fasting becomes a tool of shame, harm, or spiritual superiority, or if it ignores medical and trauma realities, rather than a gentle, consented practice in the pattern of Christ that opens the heart to truthful love under pressure.
