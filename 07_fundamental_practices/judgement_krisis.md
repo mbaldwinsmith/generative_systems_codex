@@ -6,7 +6,7 @@ Judgement (krisis) is God’s truthful, merciful discernment that separates life
 ---
 
 ## Formal Operator
-Grounded in **Truth** and **Mercy**, stabilised by **Hope**, and aligned with **Discernment (Diakrisis)**, judgement is a truth-separating and coherence-clarifying operator that illuminates distortion, differentiates life-giving from life-destroying patterns, and protects communion by confronting harm.
+Grounded in **Truth** and **Mercy**, stabilised by **Hope**, and aligned with **Discernment (Diakrisis)**, judgement is a truth-separating and coherence-clarifying operator that illuminates distortion, differentiates life-giving from life-destroying patterns, and protects communion by confronting harm. It is ordered toward **Peace (Eirene)** as justice-compatible stability: truthful love under pressure that restores relational safety.
 
 J(H) : (G, L, P, A) → (G′, L′, P′, A′) where
 - distortion → named and distinguished from identity
@@ -43,6 +43,7 @@ As a refinement of **Metanoia**, **Confession**, **Sanctification**, **Authority
 - Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Perseverance in repair without despair (**Hope**)
 - Safer, more truthful communion
+- Stabilised peace through justice and mercy (**Peace / Eirene**)
 
 ---
 
@@ -79,6 +80,7 @@ As a refinement of **Metanoia**, **Confession**, **Sanctification**, **Authority
 - Public exposure is not a virtue; privacy and dignity are protective goods.
 - Truth-telling must protect consent and never be used to shame or control.
 - Discipline is restorative, not retributive; it aims at repair and protection.
+- If judgement destroys peace, safety, or dignity, it has become coercive distortion and must stop.
 - If judgement language increases despair or urgency, return to **Hope**, **Prayer**, and patient accompaniment.
 
 ---

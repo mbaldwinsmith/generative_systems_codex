@@ -4,7 +4,7 @@
 Theosis is grace-given participation in the life of God through Christ, deepening healed resonance with the Logos while preserving the Creator–creature distinction and creaturely limits.
 
 ### Formal Operator
-Theosis is the high-order participation operator, grounded in **Truth** and stabilised by **Hope**, in which the human system is drawn, by grace, into cruciform resonance with the Logos grammar without absorption or identity erasure.
+Theosis is the high-order participation operator, grounded in **Truth** and stabilised by **Hope**, in which the human system is drawn, by grace, into cruciform resonance with the Logos grammar without absorption or identity erasure, stabilising **Peace (Eirene)** as healed participation under pressure.
 
 Θ(H) : H → H′
 
@@ -74,6 +74,7 @@ Theosis is always mediated in Christ and given by grace; it is participation, no
 - Consent, safety, and safeguarding are non-negotiable; no practice overrides limits.
 - Truth-telling must protect consent and never become coercive exposure or spiritual pressure.
 - Christ alone mediates participation; no human mediator may claim exclusive access.
+- Any claim of theosis that destroys peace or relational safety is false and must be refused.
 - If urgency or despair appears, return to **Hope** and gentle pacing.
 
 ### What it looks like in practice

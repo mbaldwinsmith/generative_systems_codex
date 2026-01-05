@@ -6,7 +6,7 @@ Confession is consented, truthful naming of sin and harm before God (and, when s
 ---
 
 ## Formal Operator
-Grounded in **Grace**, secured by **Atonement**, guided by **Truth**, and stabilised by **Hope**, confession is a truth-telling and reconciliation operator that externalises concealed distortion into grace-held reality, allowing repair of conscience and relational bonds.
+Grounded in **Grace**, secured by **Atonement**, guided by **Truth**, and stabilised by **Hope**, confession is a truth-telling and reconciliation operator that externalises concealed distortion into grace-held reality, allowing repair of conscience and relational bonds. It is ordered toward **Peace (Eirene)** as restored relational safety rather than exposure or control.
 
 C(H) : (G, L, P, A) → (G′, L′, P′, A′) where
 - concealed distortion → named truth
@@ -74,7 +74,7 @@ As a refinement of **Justification**, **Metanoia**, and **Koinonia**, Confession
 - Truth-telling is bounded by consent and safety, never by coercive expectation.
 - Confidentiality is sacred; only lawful safeguarding exceptions apply.
 - Shame is not a tool of holiness; mercy is the atmosphere of confession.
-- If confession increases hopelessness or urgency, return to **Hope** and gentle pacing.
+- If confession increases hopelessness or urgency,  or destroys **Peace**, return to **Hope** and gentle pacing.
 
 ---
 
