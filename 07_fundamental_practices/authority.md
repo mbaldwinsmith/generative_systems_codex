@@ -6,7 +6,7 @@ Authority is cruciform, consent-honouring responsibility to guard, serve, and st
 ---
 
 ## Formal Operator
-Grounded in **Judgement (Krisis)** and bounded by **Love (Agape)**, authority is a coherence-guarding and safeguarding operator that protects the weak, preserves truth under pressure, maintains healthy convergence in community, and intervenes to stop harm.
+Grounded in **Judgement (Krisis)** and bounded by **Love (Agape)**, authority is a coherence-guarding and safeguarding operator that protects the weak, preserves truth under pressure, maintains healthy convergence in community, and intervenes to stop harm. It is ordered toward **Peace (Eirene)** as communion-forming stability rather than control.
 
 Auth(H₁…Hₙ, leaders, reference_field) : {Hᵢ} → {Hᵢ′}
 
@@ -40,6 +40,7 @@ Authority refines and stabilises:
 - Increased safety for the vulnerable and weak
 - Preserved truthfulness under pressure and manipulation
 - Stabilised communal coherence and healthy convergence
+- Restored communal peace as relational safety (**Peace / Eirene**)
 - Repaired and protected communion (**Koinonia**)
 - Trustworthy boundaries that protect conscience and agency
 - Reduced distortion gradients and secrecy cultures
@@ -77,6 +78,7 @@ Authority refines and stabilises:
 - Transparency and accountability are mandatory; secrecy that hides harm is forbidden.
 - Obedience is consented alignment to Christ, never compliance to leaders.
 - If fear, shame, or coercion rise, authority must pause, repent, and submit to safeguarding.
+- Any authority that destroys peace or relational safety violates the Cross and must be refused.
 
 ---
 

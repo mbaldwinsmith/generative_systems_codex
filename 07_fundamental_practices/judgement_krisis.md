@@ -6,7 +6,7 @@ Judgement (krisis) is God’s truthful, merciful discernment that separates life
 ---
 
 ## Formal Operator
-Grounded in **Mercy** and aligned with **Discernment (Diakrisis)**, judgement is a truth-separating and coherence-clarifying operator that illuminates distortion, differentiates life-giving from life-destroying patterns, and protects communion by confronting harm.
+Grounded in **Mercy** and aligned with **Discernment (Diakrisis)**, judgement is a truth-separating and coherence-clarifying operator that illuminates distortion, differentiates life-giving from life-destroying patterns, and protects communion by confronting harm. It is ordered toward **Peace (Eirene)** as justice-compatible stability: truthful love under pressure that restores relational safety.
 
 J(H) : (G, L, P, A) → (G′, L′, P′, A′) where
 - distortion → named and distinguished from identity
@@ -39,6 +39,7 @@ As a refinement of **Metanoia**, **Confession**, **Sanctification**, **Authority
 - Pathways opened for repentance and repair (**Metanoia**, **Confession**)
 - Reduced confusion and moral fog
 - Safer, more truthful communion
+- Stabilised peace through justice and mercy (**Peace / Eirene**)
 
 ---
 
@@ -74,6 +75,7 @@ As a refinement of **Metanoia**, **Confession**, **Sanctification**, **Authority
 - Human discernment is partial and must be held with humility, peer review, and correction.
 - Public exposure is not a virtue; privacy and dignity are protective goods.
 - Discipline is restorative, not retributive; it aims at repair and protection.
+- If judgement destroys peace, safety, or dignity, it has become coercive distortion and must stop.
 
 ---
 

@@ -21,7 +21,9 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Draft Conversion (Μεταστροφή / Conversio) as a Fundamental Practice term.
 - [x] Draft Regeneration (παλιγγενεσία / Regeneratio) as a Fundamental Practice term.
 - [x] Draft Mercy (Ἔλεος / Misericordia) as a Fundamental Practice term.
+- [x] Draft Peace (Εἰρήνη / Pax) as a Fundamental Practice term.
 - [x] Draft Sacrifice (Θυσία / Sacrificium) as a Fundamental Practice term.
+- [x] Install bidirectional Peace safeguards across core practices (formal operator, outputs, misuse prevention).
 - [x] Draft Predestination (Προορισμός / Praedestinatio) as a Fundamental Practice term.
 - [ ] Draft Core Operator terms as Fundamental Practices:
   - [x] Justification
@@ -125,6 +127,12 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [ ] Create contributor guidelines.
 - [ ] Add versioning and changelog.
 - [ ] Establish stewardship practices.
+
+---
+
+## Safeguard Notes
+
+- **Risk:** Peace language can be weaponised to demand forced calm, suppress justice, or coerce compliance. Mitigation: keep Peace explicitly cruciform, justice-compatible, consented, and trauma-aware in all related practices.
 
 ---
 

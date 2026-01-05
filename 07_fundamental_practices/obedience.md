@@ -4,7 +4,7 @@
 Obedience is consented, truth-responsive alignment to Christ that protects conscience and agency while enacting faithful love under pressure.
 
 ### Formal Operator
-Grounded in **Discernment (Diakrisis)** and bounded by **Conscience / Synderesis**, obedience is a coherence-preserving alignment operator that coordinates desire, conscience, and action with the Logos grammar (ℒ) under pressure, without coercion or domination.
+Grounded in **Discernment (Diakrisis)** and bounded by **Conscience / Synderesis**, obedience is a coherence-preserving alignment operator that coordinates desire, conscience, and action with the Logos grammar (ℒ) under pressure, without coercion or domination. It is ordered toward **Peace (Eirene)** as the stable, justice-compatible fruit of consented alignment.
 
 Obedience = align(desire, conscience, action) → ℒ under consent, safeguarding, and truth-testing
 
@@ -29,6 +29,7 @@ As a refinement of **Faith**, **Nepsis**, **Koinonia**, and **Ascesis**, Obedien
 - Greater freedom to love under pressure
 - Stabilised participation in communal life without domination
 - Increased signal-to-noise ratio (σ) in discernment
+- Stabilised peace through consented alignment (**Peace / Eirene**)
 
 ### Layer Effects
 | Layer | Δ Effect |
@@ -56,6 +57,7 @@ As a refinement of **Faith**, **Nepsis**, **Koinonia**, and **Ascesis**, Obedien
 - Conscience protection is non-negotiable; no one may demand obedience that violates conscience or safety.
 - Obedience to God is distinct from submission to human control; leaders may counsel but never compel.
 - If fear, shame, or pressure rises, the practice pauses and returns to prayer, rest, and safeguarding.
+- If obedience destroys peace or safety, it has become coercive compliance and must be refused.
 
 ### What it looks like in practice
 - A person discerns a call in prayer and Scripture, and freely chooses a concrete act of love.

@@ -22,6 +22,7 @@ As a refinement and stabiliser of **Metanoia** and **Sanctification**, Justifica
 - Reduced shame-based self-definition
 - Increased capacity to face truth without annihilation
 - Stable belonging that supports ongoing formation
+- Stabilised peace as safety in grace (**Peace / Eirene**)
 - Freedom from conditional acceptance and fear-driven striving
 
 ### Layer Effects

@@ -33,6 +33,7 @@ It grounds **Justification** (belonging before behaviour), enables **Metanoia** 
 - Settled belonging and reduced shame  
 - Greater freedom to tell the truth  
 - Increased trust and relational safety  
+- Stabilised peace as healed coherence (**Peace / Eirene**)  
 - Release from merit ladders and spiritual bargaining  
 - A wider space for prayer, healing, and repair
 

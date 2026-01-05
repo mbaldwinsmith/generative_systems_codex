@@ -4,7 +4,7 @@
 Metanoia is a grace-enabled turning of the mind and heart that repairs inner terrain and reorients attractors toward truthful love under pressure.
 
 ### Formal Operator
-Metanoia is a terrain-repair and attractor-topology reorientation operator that destabilises entropic basins and opens new paths of convergence toward the Logos grammar.
+Metanoia is a terrain-repair and attractor-topology reorientation operator that destabilises entropic basins and opens new paths of convergence toward the Logos grammar, stabilising **Peace (Eirene)** as justice-compatible coherence after truth-telling.
 
 A → A′,  basin_entropy ↓,  alignment ↑,  σ (signal-to-noise ratio) ↑
 
@@ -24,6 +24,7 @@ As a refinement of **Justification**, **Nepsis**, and **Ascesis**, Metanoia is a
 - Safer pathways for truth-telling (**Confession**)
 - Greater freedom to choose love under pressure
 - Restored capacity for communion
+- Stabilised peace as healed equilibrium (**Peace / Eirene**)
 
 ### Layer Effects
 | Layer | Δ Effect |
@@ -52,6 +53,7 @@ As a refinement of **Justification**, **Nepsis**, and **Ascesis**, Metanoia is a
 - If repentance produces panic, shame, or collapse, pause and return to grounding, rest, and pastoral care.
 - Metanoia is not a demand for disclosure; it respects privacy, boundaries, and legal/clinical safeguards.
 - The Cross forbids using repentance to control, shame, or extract obedience.
+- If metanoia destroys peace or safety, it has become coercion and must be refused.
 
 ### What it looks like in practice
 - Naming a specific misalignment with honesty and gentleness

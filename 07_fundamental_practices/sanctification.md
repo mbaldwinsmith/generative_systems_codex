@@ -4,7 +4,7 @@
 Sanctification is grace-led, iterative convergence toward the Christ-pattern that stabilises healed coherence over time without turning formation into a merit ladder.
 
 ### Formal Operator
-Sanctification is an iterative convergence operator in **Grace** that repeatedly aligns the human system with the Logos grammar, deepening stability in truthful love under pressure.
+Sanctification is an iterative convergence operator in **Grace** that repeatedly aligns the human system with the Logos grammar, deepening stability in truthful love under pressure and stabilising **Peace (Eirene)** as healed coherence.
 
 xₙ₊₁ = ℒ(xₙ),  σ (signal-to-noise ratio) ↑,  attractor_stability ↑,  coherence ↑
 
@@ -24,6 +24,7 @@ Sanctification integrates and stabilises: **Justification** (Ground anchoring in
 - Reduced volatility in attractor basins and shame loops
 - Greater freedom to choose truth, repair, and mercy
 - Deepened relational attunement to God and others
+- Stabilised peace as sustained coherence (**Peace / Eirene**)
 - A durable pattern of humble, consented growth
 
 ### Layer Effects
@@ -53,6 +54,7 @@ Sanctification integrates and stabilises: **Justification** (Ground anchoring in
 - Growth targets are never coercive; practices must be consensual and paced to capacity.
 - Shame, fear, and pressure are signals to stop, simplify, and return to grounding.
 - Sanctification never replaces safeguarding, therapy, or medical care.
+- If formation destroys peace, it has left the Christ-pattern and must be corrected.
 
 ### What it looks like in practice
 - Returning to Justification when shame or fear reappears

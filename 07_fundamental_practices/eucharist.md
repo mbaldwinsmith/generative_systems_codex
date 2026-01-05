@@ -6,7 +6,7 @@ Eucharist is the sacramental participation in Christ’s self-giving life that n
 ---
 
 ## Formal Operator
-Eucharist is a communion–nourishment and convergence-stabilisation operator that renews participation in the Grace field, deepens Koinonia (mutual coupling in Christ), sustains Sanctification (iterative convergence), and embodies Atonement (reconciled communion through Christ’s self-giving).
+Eucharist is a communion–nourishment and convergence-stabilisation operator that renews participation in the Grace field, deepens Koinonia (mutual coupling in Christ), sustains Sanctification (iterative convergence), and embodies Atonement (reconciled communion through Christ’s self-giving). It is ordered toward **Peace (Eirene)** as justice-compatible, communion-forming stability.
 
 E(H₁…Hₙ) : {Hᵢ} → {Hᵢ′}
 
@@ -77,6 +77,7 @@ Eucharist refines and stabilises:
 - Participation is always voluntary; no one is pressured into receiving.
 - Pastoral care is never withheld as punishment; Eucharist is medicine, not a prize.
 - If Eucharist language increases fear, pressure, or shame, simplify and return to gentle care.
+- Any practice that erodes peace, safety, or consent violates the Cross and must be corrected.
 
 ---
 

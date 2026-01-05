@@ -4,7 +4,7 @@
 Nepsis is gentle, consented watchfulness that guards attention, desire, and discernment so the heart stays sober, free, and faithful under pressure.
 
 ### Formal Operator
-Grounded in **Grace** and aligned with **Discernment (Diakrisis)**, nepsis is a safety operator that dampens distortion gradients and stabilises attention without fear-driven hypervigilance.
+Grounded in **Grace** and aligned with **Discernment (Diakrisis)**, nepsis is a safety operator that dampens distortion gradients and stabilises attention without fear-driven hypervigilance, protecting **Peace (Eirene)** as settled coherence under pressure.
 
 ∇A_entropy → 0, attention_guard ↑, desire_noise ↓, discernment_clarity ↑, σ (signal-to-noise ratio) ↑
 
@@ -24,6 +24,7 @@ As a refinement of **Metanoia**, **Kenosis**, and **Ascesis**, Nepsis protects t
 - Lowered susceptibility to deceptive attractors
 - Greater capacity to choose truthful love under pressure
 - Strengthened pathways toward **Metanoia**
+- A steadier peace that resists fear-driven vigilance (**Peace / Eirene**)
 
 ### Layer Effects
 | Layer | Δ Effect |
@@ -50,6 +51,7 @@ As a refinement of **Metanoia**, **Kenosis**, and **Ascesis**, Nepsis protects t
 - If watchfulness increases fear, tighten the scope, shorten the time, or pause and return to rest.
 - Nepsis is never imposed by leaders, peers, or institutions; consent is non-negotiable.
 - Shame is a signal to stop and return to grace; Nepsis does not produce or intensify shame.
+- If nepsis increases agitation or destroys peace, it has become distortion and must be simplified.
 
 ### What it looks like in practice
 - Brief, repeatable check-ins: “Where is my attention? What am I desiring? Where is Christ inviting me?”

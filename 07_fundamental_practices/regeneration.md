@@ -32,6 +32,7 @@ Regeneration never overwrites personhood; it vivifies and heals the existing sel
 - New coherence basins that support truthful love under pressure
 - Reoriented desire and attention toward Christ
 - Increased relational receptivity to God and neighbor
+- Stabilised peace as a healed baseline state (**Peace / Eirene**)
 - A new beginning that stabilises into sanctification over time
 
 ### Layer Effects
