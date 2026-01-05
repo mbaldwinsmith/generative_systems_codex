@@ -13,6 +13,8 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Prayer
   - [x] Love (Agape)
   - [x] Scripture
+- [ ] Draft Core Operator terms as Fundamental Practices:
+  - [x] Justification
 - [x] Add explicit misuse-prevention sections to each.
 - [x] Review all three against 06_TESTS_AND_INVARIANTS.md.
 
