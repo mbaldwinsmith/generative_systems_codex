@@ -73,7 +73,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Discernment (Diakrisis)
   - [x] Wisdom (Sophia)
   - [x] Conscience
-  - [ ] Spiritual Direction
+  - [x] Spiritual Direction
 
 ---
 
