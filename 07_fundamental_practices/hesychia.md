@@ -6,7 +6,7 @@ Hesychia is prayerful stillness that quiets inner noise so the heart can remain 
 ### Formal Operator
 Hesychia is a noise-damping and presence-stabilising operator that reduces internal reactivity and supports attentive, consenting communion with God.
 
-noise_internal ↓ ⇒ σ ↑, P_stability ↑
+noise_internal ↓ ⇒ σ (signal-to-noise ratio) ↑, P_stability ↑
 
 As a refinement of **Nepsis** and **Kenosis**, Hesychia quiets reactive loops so the Logos grammar can be heard without coercion or strain.
 
