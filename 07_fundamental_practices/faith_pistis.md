@@ -8,7 +8,7 @@ Faith is trustful participation in and consented reliance upon God’s faithful 
 ## Formal Operator
 Faith is a relational-trust operator that turns the person toward God in consented reliance, activating participation in the gift-field of grace and the convergence grammar of Christ.
 
-Faith = trustful_participation(God) with consented_reliance → coupling ↑, σ ↑, A_opened
+Faith = trustful_participation(God) with consented_reliance → coupling ↑, σ ↑, A_opened toward healed convergence
 
 **In ordinary words:**
 Faith is not mere belief-statements or intellectual certainty. It is a lived, trusting “yes” — a willingness to rely on God, to be held, and to walk with Christ even with questions.
@@ -36,7 +36,7 @@ Faith grounds and activates the core flow of salvation as participation:
 - Increased trust and openness to God’s healing action
 - Greater capacity to face truth without collapse
 - Willing participation in baptismal and communal life
-- A stable, gentle orientation toward sanctifying growth
+- A stable, gentle orientation toward sanctifying growth over time
 
 ---
 
