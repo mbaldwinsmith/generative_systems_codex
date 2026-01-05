@@ -17,6 +17,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Draft Atonement (Ἱλασμός / Ἀποκατάστασις) as a Fundamental Practice term.
 - [x] Draft Incarnation (Ἐνανθρώπησις / Incarnatio) as a Fundamental Practice term.
 - [x] Draft Faith (Πίστις / Fides) as a Fundamental Practice term.
+- [x] Draft Adoption (Υἱοθεσία / Adoptio) as a Fundamental Practice term.
 - [ ] Draft Core Operator terms as Fundamental Practices:
   - [x] Justification
   - [x] Sanctification
@@ -52,6 +53,8 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Tradition
 - [ ] Draft governance and accountability patterns for delegated authority (consent, transparency, reporting, external review).
 - [ ] Draft communal accessibility guidance for liturgical participation (sensory, neurodivergent, and disability-aware accommodations).
+- [ ] Draft attachment-healing integration guidance across practices (secure attachment, consent, pacing, and trauma-aware belonging).
+- [ ] Add adoption and foster-care trauma safeguards to communal care guidance and training materials.
 
 ---
 
