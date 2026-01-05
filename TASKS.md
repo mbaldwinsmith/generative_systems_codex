@@ -46,6 +46,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Nepsis (Watchful sobriety)
   - [x] Vigil
   - [x] Obedience
+  - [x] Virtue (Arete)
   - [x] Hamartia (Sin)
   - [x] Depravity (Φθορά / Depravatio)
 - [x] Draft Original Sin (Προπατορικὴ Ἁμαρτία / Peccatum Originale) as a Fundamental Practice term.

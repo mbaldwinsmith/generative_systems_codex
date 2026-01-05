@@ -67,6 +67,7 @@ This is a garden of chapels, not a rulebook.
 | Spiritual Direction | `spiritual_direction.md` |
 | Theosis | `theosis.md` |
 | Tradition | `tradition.md` |
+| Virtue (Arete) | `virtue_arete.md` |
 | Vigil | `vigil.md` |
 
 ### File Naming Convention
