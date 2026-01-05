@@ -8,8 +8,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 ## Phase 1 — Canon Seeding
 
-- [ ] Finalise and stabilise canonical spine files (00–06).
-- [ ] Write first three “gold-standard” Codex terms using 01_TERM_TEMPLATE:
+- [x] Write first three “gold-standard” Codex terms using 01_TERM_TEMPLATE:
   - [x] Prayer
   - [x] Love (Agape)
   - [x] Scripture
@@ -36,7 +35,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 ## Phase 2 — Ascetical Grammar
 
-- [ ] Formalise core ascetical operators:
+- [x] Formalise core ascetical operators:
   - [x] Hesychia (Stillness)
   - [x] Ascesis (Ascetic practice)
   - [x] Fasting
@@ -52,7 +51,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 ## Phase 3 — Ecclesial Ecology
 
-- [ ] Formalise ecclesial and communal terms:
+- [x] Formalise ecclesial and communal terms:
   - [x] Liturgy
   - [x] Baptism
   - [x] Eucharist
@@ -68,7 +67,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 ## Phase 4 — Discernment & Wisdom
 
-- [ ] Formalise:
+- [x] Formalise:
   - [x] Judgement (Krisis / Iudicium)
   - [x] Discernment (Diakrisis)
   - [x] Wisdom (Sophia)
