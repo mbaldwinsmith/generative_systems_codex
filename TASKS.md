@@ -88,7 +88,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 ## Phase 5 — Public Life & Vocation
 
 - [ ] Formalise:
-  - [ ] Vocation
+  - [x] Vocation
   - [ ] Marriage
   - [ ] Celibacy
   - [ ] Work
