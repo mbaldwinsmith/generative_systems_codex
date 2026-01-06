@@ -71,6 +71,7 @@ This is a garden of chapels, not a rulebook.
 | Theosis | `theosis.md` |
 | Tradition | `tradition.md` |
 | Truth | `truth.md` |
+| Vocation | `vocation.md` |
 | Virtue (Arete) | `virtue_arete.md` |
 | Vigil | `vigil.md` |
 
