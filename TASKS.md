@@ -104,7 +104,6 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Governance, justice, and advocacy
   - [x] Pastoral & ecclesial service
 - [ ] Define coherence, justice, safeguarding, and anti-burnout implications *within* vocation.
-- [ ] Define Work as daily vocational participation inside `vocation.md`.
 
 ---
 
