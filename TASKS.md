@@ -94,7 +94,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Integrate Marriage and Celibacy as vocational configurations within `vocation.md`.
 - [x] Add Economics as a vocational configuration within `vocation.md`.
 - [ ] Expand `vocation.md` with **Domains of Vocational Expression**, including:
-  - [ ] Economic participation (paid and unpaid labour)
+  - [x] Economic participation (paid and unpaid labour)
   - [ ] Caregiving & domestic life
   - [ ] Artistic / cultural creation
   - [ ] Study, scholarship, and formation
