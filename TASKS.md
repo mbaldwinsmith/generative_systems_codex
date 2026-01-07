@@ -96,13 +96,13 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [ ] Expand `vocation.md` with **Domains of Vocational Expression**, including:
   - [x] Economic participation (paid and unpaid labour)
   - [x] Caregiving & domestic life
-  - [ ] Artistic / cultural creation
+  - [x] Periods of illness, unemployment, and hidden life
+  - [x] Rest, Sabbath, and limits
   - [ ] Study, scholarship, and formation
+  - [ ] Artistic / cultural creation
   - [ ] Manual / craft labour
   - [ ] Governance, justice, and advocacy
   - [ ] Pastoral & ecclesial service
-  - [x] Periods of illness, unemployment, and hidden life
-  - [x] Rest, Sabbath, and limits
 - [ ] Define coherence, justice, safeguarding, and anti-burnout implications *within* vocation.
 - [ ] Define Work as daily vocational participation inside `vocation.md`.
 
