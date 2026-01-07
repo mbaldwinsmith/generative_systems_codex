@@ -116,7 +116,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Heaven
   - [x] Hell
   - [x] New Creation
-- [ ] Draft eschatology integration notes across core operators (atonement, theosis, koinonia, sophia) for coherent final-hope language.
+- [ ] Draft eschatology integration notes across the full core operator grammar — Grace, Justification, Faith, Metanoia, Sanctification, Koinonia, Theosis, Glorification, Resurrection, and New Creation — ensuring a coherent, non-coercive, trauma-aware final-hope language that preserves cruciform love, embodied restoration, and universal repair ecology
 
 ---
 
