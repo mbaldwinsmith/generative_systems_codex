@@ -69,6 +69,59 @@ Vocation is the placement operator. Marriage and celibacy are subordinate config
 
 **See full term:** [`celibacy.md`](celibacy.md)
 
+### Economics — Vocational Configuration
+**One-line definition:** The communal ordering of material life, labour, exchange, land, and resources toward mercy, justice, peace, and shared flourishing within God’s repair ecology.
+
+**Formal operator:** Economics is a field-ordering and provision operator, grounded in **Grace**, ordered by **Mercy**, **Justice**, **Peace**, **Koinonia**, and **Sacrifice**, and explicitly subordinated to **Vocation**. It refuses productivity-as-worth logic and orders material life toward provision, belonging, and sustainable dignity rather than extraction or competition.
+
+E ⊂ V: E(H₁…Hₙ, R, t) → (H′₁…H′ₙ, E′) where
+- provision > extraction
+- belonging > competition
+- sustainability > growth-at-all-costs
+- dignity > efficiency
+- economic participation without worth ranking
+- ΔG: safety and stability of provision ↑ (or ↓ if coerced)
+- ΔL: truth-aligned ordering of resources ↑ (or ↓ if distorted by merit logic)
+- ΔP: communal trust and mutual care ↑ (or ↓ if scarcity panic is weaponised)
+
+**Inputs**
+- Human communities H₁…Hₙ
+- Land, labour, tools, resources, and time
+- Trust, consent, and mutual accountability
+- Social vulnerability, disability, caregiving load, and trauma realities
+- Ecclesial and civil safeguarding constraints
+
+**Outputs**
+- Stable provision and food security
+- Reduced scarcity-panic
+- Shared flourishing and dignity protection
+- Economic participation without worth ranking
+- Protection of the poor, weak, and exploited
+
+### Layer Effects
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (precarity, fear, debt terror) |
+| Logos (L)  | ↑ | ↓ (market absolutism, merit theology) |
+| Presence (P) | ↑ | ↓ (competition, mistrust, exclusion) |
+
+**Misuse-Prevention (critical)**
+- Rejects market absolutism and any ideology that treats markets as moral absolutes.
+- Rejects prosperity theology and any equation of wealth with holiness.
+- Rejects debt slavery, wage coercion, and systems that profit from precarity.
+- Rejects treating productivity as worth, virtue, or spiritual status.
+- Rejects scapegoating the poor or framing poverty as moral failure.
+- Refuses economies that extract from the vulnerable or erase consent.
+
+**Fails the Cross if…**
+Economics becomes growth-idolatry, austerity used as moral judgment, profit over people, extraction economies, or sacrificial suffering of the vulnerable.
+
+**Trauma-aware safeguarding**
+- Survival comes before productivity; provision is a pastoral priority.
+- Rest and Sabbath are economic goods that protect human dignity.
+- Debt, hunger, and housing insecurity are pastoral emergencies.
+- Consent and exit paths must be protected; coercion voids legitimacy.
+
 ---
 
 ## Work (Ἔργον / Labor)
