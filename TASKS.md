@@ -103,7 +103,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Manual / craft labour
   - [x] Governance, justice, and advocacy
   - [x] Pastoral & ecclesial service
-- [ ] Define coherence, justice, safeguarding, and anti-burnout implications *within* vocation.
+- [x] Define coherence, justice, safeguarding, and anti-burnout implications *within* vocation.
 
 ---
 
