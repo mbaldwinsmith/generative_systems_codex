@@ -109,7 +109,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 ## Phase 6 — Suffering, Death, and New Creation
 
-- [ ] Formalise:
+- [x] Formalise:
   - [x] Suffering
   - [x] Death
   - [x] Resurrection
