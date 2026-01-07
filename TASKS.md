@@ -92,6 +92,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Draft Marriage (Γάμος / Matrimonium) as a vocational form.
 - [x] Draft Celibacy (Ἀγαμία / Caelibatus) as a vocational form.
 - [x] Integrate Marriage and Celibacy as vocational configurations within `vocation.md`.
+- [x] Add Economics as a vocational configuration within `vocation.md`.
 - [ ] Expand `vocation.md` with **Domains of Vocational Expression**, including:
   - [ ] Economic participation (paid and unpaid labour)
   - [ ] Caregiving & domestic life
