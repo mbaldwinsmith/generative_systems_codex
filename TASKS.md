@@ -116,8 +116,6 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [ ] Heaven
   - [ ] Hell
   - [ ] New Creation
-- [ ] Ensure compatibility with the Cruciform Criterion.
-- [ ] Integrate glorification with resurrection and new creation terms (fixed-point completion, transfiguration, and Sabbath rest).
 - [ ] Draft eschatology integration notes across core operators (atonement, theosis, koinonia, sophia) for coherent final-hope language.
 
 ---
