@@ -95,7 +95,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Add Economics as a vocational configuration within `vocation.md`.
 - [ ] Expand `vocation.md` with **Domains of Vocational Expression**, including:
   - [x] Economic participation (paid and unpaid labour)
-  - [ ] Caregiving & domestic life
+  - [x] Caregiving & domestic life
   - [ ] Artistic / cultural creation
   - [ ] Study, scholarship, and formation
   - [ ] Manual / craft labour

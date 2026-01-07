@@ -124,6 +124,67 @@ Economics becomes growth-idolatry, austerity used as moral judgment, profit over
 
 ---
 
+## Caregiving & Domestic Life — Vocational Sub-Domain
+
+### One-Line Definition
+A primary vocational placement where caregiving, household labour, and relational maintenance become a cruciform field of **Love (Agape)**, **Grace**, and **Mercy**, sustaining fragile lives and forming household-scale repair ecologies.
+
+### Formal Operator
+This sub-domain is a relational containment, stability, and mercy-distribution operator grounded in **Love (Agape)**, secured by **Grace**, governed by **Mercy**, sheltered in **Peace**, stabilised in **Koinonia**, clarified by **Conscience**, and ordered toward **Sanctification** as a primary expression of **Vocation**.
+
+C ⊂ V: C(H, R, t) → (H′, E′) where
+- H = (G, L, P, A)
+- relational containment: fragile systems are held in protective, consented care
+- stability: rhythms of presence, provision, and repair prevent collapse
+- mercy-distribution: care is extended toward the weak without worth-metrics
+- vocation-first: caregiving is spiritually primary, not derivative or secondary
+- peace-governed pacing: labour is sized by consent, limits, and rest
+
+**In ordinary words:**
+Caregiving and domestic life are not “less spiritual” work. They are a primary vocational placement where God’s love is embodied in protection, nurture, and daily repair under pressure.
+
+### Inputs
+- The human system H = (G, L, P, A)
+- Children, elders, sick, disabled, traumatised, and dependent persons
+- Relational, emotional, temporal, and physical labour
+- Reduced visibility and formal recognition
+- Need for communal support, boundaries, rest, and resourcing
+- Conscience-based consent and discernment for limits (**Conscience**)
+- Grace-anchored belonging that precedes productivity (**Grace**)
+
+### Outputs
+- Stabilised households and protected persons
+- Transmission of trust, safety, and belonging
+- Sanctification through daily love under pressure (**Sanctification**, **Love**)
+- Reduced social fragmentation
+- Formation of repair ecologies at household scale
+- Increased **Peace**, **Mercy**, and communal coherence (**Koinonia**)
+
+### Layer Effects
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ (stability, shelter, belonging) | ↓ (invisibilisation, abandonment by institutions) |
+| Logos (L)  | ↑ (truthful dignity of care, conscience clarity) | ↓ (gendered coercion, spiritualised exploitation) |
+| Presence (P) | ↑ (attunement, mercy, daily faithful presence) | ↓ (burnout martyrdom, isolation) |
+
+### Misuse-Prevention (Critical)
+- Rejects romanticising exhaustion or praising burnout as holiness.
+- Rejects spiritualising unpaid exploitation or using “service” to erase consent.
+- Rejects coercing caregiving through gendered or familial scripts.
+- Rejects abandoning caregivers economically, socially, or spiritually.
+- Rejects silencing cries for rest, help, or material support.
+- Requires shared responsibility, communal resourcing, and realistic boundaries.
+
+### Fails the Cross If…
+Caregiving is used to praise burnout as obedience, erase consent or boundaries, exploit vulnerability, or abandon carers under spiritual language.
+
+### Trauma-Aware Safeguarding
+- Right to rest without guilt and without spiritual suspicion.
+- Right to boundaries and consented limits.
+- Right to communal support, material aid, and institutional protection.
+- Protection against coercion, gendered control, and economic abandonment.
+- Explicit affirmation of caregivers’ dignity, needs, and humanity.
+
 ## Periods of Illness, Unemployment, and Hidden Life — Vocational Sub-Domain
 
 ### One-Line Definition
