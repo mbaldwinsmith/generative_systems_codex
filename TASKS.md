@@ -27,7 +27,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Draft Sacrifice (Θυσία / Sacrificium) as a Fundamental Practice term.
 - [x] Install bidirectional Peace safeguards across core practices (formal operator, outputs, misuse prevention).
 - [x] Draft Predestination (Προορισμός / Praedestinatio) as a Fundamental Practice term.
-- [ ] Draft Core Operator terms as Fundamental Practices:
+- [x] Draft Core Operator terms as Fundamental Practices:
   - [x] Justification
   - [x] Sanctification
   - [x] Koinonia
