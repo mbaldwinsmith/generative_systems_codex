@@ -140,9 +140,11 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 ---
 
-## Phase 9 — Rules of Life
+## Phase 9 – Rules of Life
 
 - [x] Draft Rule of Life of the Coherent Gardener for a pilgrim in vocational transition and re-rooting.
+- [x] Add Monthly Attractor Discernment (Gardener Review) guide in `Rule_of_Life/monthly_attractor_discernment_gardener_review.md`.
+- [x] Link Monthly Attractor Discernment guide in the Rule of Life and add a short example review.
 
 ## Follow-up Notes (Post-Synthesis)
 

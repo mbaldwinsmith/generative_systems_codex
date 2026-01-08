@@ -83,6 +83,7 @@ This Rule is designed for a pilgrim in vocational transition, spiritual deepenin
 
 **Monthly discernment**
 - A gentle review of attractors: What patterns are becoming more stable? What patterns are destabilizing?
+- If helpful, use the Monthly Attractor Discernment guide: `monthly_attractor_discernment_gardener_review.md`.
 - Offer a simple prayer of metanoia: “Turn my heart toward truthful love.”
 
 **Healing and vocational clarity**
