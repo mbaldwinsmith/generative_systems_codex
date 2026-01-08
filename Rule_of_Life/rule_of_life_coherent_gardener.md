@@ -57,6 +57,92 @@ This Rule is designed for a pilgrim in vocational transition, spiritual deepenin
 - **Release:** entrust unresolved matters to God; postpone resolution until tomorrow.
 - **Rest:** prepare for sleep as Sabbath; the day ends without self-judgment.
 
+### Threshold Seal — Morning Re-Anchoring
+
+> *Before any digital input is received, the Gardener re-enters Ground, Logos, and Presence through a simple five-fold prayer seal.*
+
+**Practice**
+
+Before first phone use:
+
+- Our Father  
+- Hail Mary  
+- Jesus Prayer  
+- Kyrie Eleison  
+- Glory Be  
+
+**Orientation**
+
+This is not a performance marker.  
+It is a **protective attractor** that seals coherence before entropy enters.
+
+If it is missed, it is simply resumed — never compensated.
+
+### Optional Office Canopy — Song, Incarnation & Gospel
+
+> *When the Gardener has space and desire, the day may be further clothed in the Church’s own song and remembrance.*
+
+**Morning flowering (if desired)**  
+- **Benedictus** (Song of Zechariah)
+
+**Daytime remembrance (once or more, if desired)**  
+- **Angelus** — remembrance of the Incarnation
+
+**Evening flowering (if desired)**  
+- **Magnificat** (Song of Mary)
+
+**Word of Life (as space allows)**  
+- Gospel of the Day and a Psalm
+
+**Orientation**
+
+These are not duties.  
+They are **canopies of praise** that widen the garden’s light.  
+They are received only when they increase peace and joy.
+
+Missing them requires no repair.  
+They are flowers, not fences.
+
+### Living Watchfulness — Mindfulness, Breath & Nepsis
+
+> *Throughout the day, the Gardener practices gentle watchfulness of breath, body, and heart, returning again and again to Christ-centred presence.*
+
+**Practice**
+
+As needed, and without fixed schedule:
+
+- Return attention to the breath for a few slow cycles  
+- Notice bodily tension and soften it with kindness  
+- Offer a brief watchful prayer (e.g., “Jesus, here.” / “Lord, have mercy.”)  
+- Release anxious or compulsive thoughts without argument
+
+**Orientation**
+
+This is not a discipline to complete.  
+It is a **living attentiveness thread** that keeps the garden awake, merciful, and embodied.
+
+It may be practiced many times, or not at all, without repair.
+
+
+### Completion Seal — Evening Mercy & Gratitude
+
+> *Before sleep, the Gardener entrusts the day to Christ through truth, mercy, and thanksgiving.*
+
+**Practice**
+
+Before bed:
+
+- Examination of conscience (gentle truth-telling, not self-accusation)  
+- Bring all conviction-inducing matters into Christ’s mercy  
+- Gratitude prayer (name 1–3 gifts of the day)
+
+**Orientation**
+
+This is not a performance marker.  
+It is a **healing attractor** that releases shame, restores coherence, and blesses rest.
+
+If it is missed, it is simply resumed — never compensated.
+
 ---
 
 ## III. Weekly Rule — The Cycles That Restore Shape
