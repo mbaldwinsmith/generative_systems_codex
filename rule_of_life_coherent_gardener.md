@@ -10,7 +10,7 @@ This Rule is designed for a pilgrim in vocational transition, spiritual deepenin
 
 **Seasonal posture**
 - This season is a fallow field, not a test. Waiting is not a failure; it is soil-rest for hidden roots. The pilgrim does not rush God’s timing or force fruit.
-- Suffering and uncertainty are not proof of God’s absence. They are the ground where truthful love learns patience and compassion under pressure.
+- Suffering and uncertainty are not proof of God’s absence. God does not require suffering; he meets us there, and truthful love learns patience and compassion under pressure.
 
 **How time is held**
 - Time is received as gift, not a taskmaster. The pilgrim practices faithful attention to the day rather than anxiety about outcomes.
@@ -45,8 +45,8 @@ This Rule is designed for a pilgrim in vocational transition, spiritual deepenin
 - **Boundary of gentleness:** choose one realistic intention for the day, not a list of achievements.
 
 **Daytime — Faithful Tending**
-- **Work in humane portions:** short, focused intervals with periodic pauses to breathe and return to God.
-- **Truthfulness:** name what is real without drama (tired, hopeful, confused, grateful). Truth is a stabilizer.
+- **Work in humane portions:** if working, do so in short, focused intervals with periodic pauses to breathe and return to God.
+- **Truthfulness:** name what is real with honesty and care (tired, hopeful, confused, grateful). Truth is a stabilizer.
 - **Nervous system care:** brief grounding (stretch, sunlight, quiet, a cup of tea) when agitation rises.
 - **Compassionate limits:** if work or transition feels overwhelming, scale down without guilt.
 - **Micro-prayers:** simple phrases (“Have mercy,” “Guide me,” “Hold me”) as needed.
@@ -90,7 +90,7 @@ This Rule is designed for a pilgrim in vocational transition, spiritual deepenin
 - If needed, seek pastoral or therapeutic support. The Codex never replaces care.
 
 **Seasonal retreat**
-- Once per season, take a half-day of silence or quiet reflection. Bring Scripture, a journal, and rest.
+- Once per season, if feasible, take a half-day of silence or quiet reflection. If not, take a shorter quiet window. Bring Scripture, a journal, and rest.
 - Ask: Where is Christ repairing my coherence? What is being pruned? What is being planted?
 
 **Eschatological re-orientation**
