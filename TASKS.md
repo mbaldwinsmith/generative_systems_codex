@@ -157,6 +157,9 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Added Forgiveness cross-references in confession, mercy, and peace.
 - [x] Added Forgiveness cross-references in judgement, truth, hope, and koinonia.
 - [x] Normalized forgiveness phrasing across practice files.
+- [x] Added Forgiveness to the glossary.
+- [x] Normalized glossary dash usage.
+- [x] Normalized glossary quote artifacts to ASCII.
 
 ---
 
