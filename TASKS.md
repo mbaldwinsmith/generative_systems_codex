@@ -151,7 +151,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 ## Follow-up Notes (Post-Synthesis)
 
-- [ ] Align glossary filename references (`03_GLOSSARY.md` vs `03_GLOSSSARY.md`) across docs.
+- [x] Align glossary filename references (`03_GLOSSARY.md` vs `03_GLOSSSARY.md`) across docs.
 - [ ] Add `KERYGMA_CODEX_CORE.md` to README core architecture list and recommended reading path.
 - [x] Completed integration of Marriage and Celibacy as vocational configurations under Vocation.
 - [x] Added Forgiveness cross-references in confession, mercy, and peace.

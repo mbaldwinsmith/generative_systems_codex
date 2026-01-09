@@ -161,7 +161,7 @@ These are application patterns (not case studies), offered as safe uses of the g
 1. `07_fundamental_practices/_INDEX.md` and core practices
 2. `05_CORE_OPERATORS.md`
 3. `00_CONSTITUTION.md` and `04_PASTORAL_GUARDRAILS.md`
-4. `02_FORMALISM.md` and `03_GLOSSSARY.md`
+4. `02_FORMALISM.md` and `03_GLOSSARY.md`
 5. `06_TESTS_AND_INVARIANTS.md`
 6. `TASKS.md`
 
