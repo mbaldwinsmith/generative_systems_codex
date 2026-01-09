@@ -7,9 +7,9 @@
 
 We stand in a time of profound spiritual fragmentation. Many who seek God find themselves navigating theological frameworks that, however well-intentioned, can inadvertently inflict spiritual injury, amplify shame, or demand exhausting performance. The language of faith, meant to be a source of life, too often becomes a source of pressure.
 
-The Kerygma Codex is offered in response. It is a proposal for a gentle, trauma-aware, and coherent grammar for Christian formation. It is an invitation to a faith that is at once gentle enough to hold the wounded and rigorous enough to be trustworthy. This is not a new doctrine or a rulebook, but a shared language for repair — a commons of healing for a world marked by division and distress.
+The Kerygma Codex is offered in response. It is a proposal for a gentle, trauma-aware, and coherent grammar for Christian formation. It is an invitation to a faith that is at once gentle enough to hold the wounded and rigorous enough to be trustworthy. This is not a new doctrine or a rulebook, but a shared language for repair: a commons of healing for a world marked by division and distress.
 
-Our central vision is the cultivation of a **repair ecology**: a habitat where people can become whole, truthful, gentle, and safe under pressure. It is an invitation to a faith that feels less like a performance system and more like a *garden of chapels* — a place of rest, consent, and careful discernment where healing becomes natural.
+Our central vision is the cultivation of a **repair ecology**: a habitat where people can become whole, truthful, gentle, and safe under pressure. It is an invitation to a faith that feels less like a performance system and more like a *garden of chapels*: a place of rest, consent, and careful discernment where healing becomes natural.
 
 ---
 
@@ -25,7 +25,7 @@ This crisis demands more than better words. It demands an architecture of safety
 
 ## 2. The Core Vision: A Grammar of Participation, Not a Mechanism of Control
 
-Generative Systems Theology is a **translation layer** — a servant grammar that uses analogies from systems science to articulate the Church’s ancient formation wisdom with greater coherence, gentleness, and trauma-awareness.
+Generative Systems Theology is a **translation layer**: a servant grammar that uses analogies from systems science to articulate the Church’s ancient formation wisdom with greater coherence, gentleness, and trauma-awareness.
 
 It is not a theory of divine causality.  
 It does not replace doctrine, sacrament, or liturgy.  
@@ -113,7 +113,7 @@ All formation is measured by the Cruciform Criterion.
 
 ## 6. The Promise: Cultivating a Repair Ecology
 
-The Codex does not aim to perfect a system — it aims to cultivate a habitat.
+The Codex does not aim to perfect a system, it aims to cultivate a habitat.
 
 A **repair ecology** is a relational environment where healing becomes natural:
 
@@ -126,7 +126,7 @@ A **repair ecology** is a relational environment where healing becomes natural:
 
 ## 7. An Invitation to a Gentle Faith
 
-The Kerygma Codex is offered as a commons — a shared language for communities seeking a faith that heals rather than harms.
+The Kerygma Codex is offered as a commons, a shared language for communities seeking a faith that heals rather than harms.
 
 Its use is bound by this covenant:
 
