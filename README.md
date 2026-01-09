@@ -7,7 +7,9 @@ written in analogical systems language*
 
 ## What This Is
 
-The **Kerygma Codex** is a gentle but rigorous Christian framework that uses systems-science metaphor to describe salvation, formation, and Church life as **coherence repair**.
+The **Kerygma Codex** is a gentle but rigorous Christian framework that uses systems-science metaphor to describe salvation, formation, and Church life as **coherence repair**. 
+
+It is articulated through a Generative Systems Theology translation layer — a modern analytic grammar used to express ancient Christian formation theology in trauma-aware, safeguarding-conscious terms.
 
 It models the human person as a tri-layer system:
 

@@ -6,6 +6,11 @@ This Codex formalises Christian spiritual life using systems-science metaphor as
 This is not mechanistic theology.
 Systems language is analogical, pastoral, and cruciform.
 
+The Kerygma Codex is articulated through a **Generative Systems Theology** translation layer — a systems-science and relational-analytic grammar used to express ancient Christian formation theology in coherence, safety, and trauma-aware terms.  
+
+This translation layer is a servant grammar: it explains, but does not replace, the Church’s doctrinal, liturgical, and sacramental inheritance.
+
+
 ---
 
 ## Non-Negotiable Invariants
