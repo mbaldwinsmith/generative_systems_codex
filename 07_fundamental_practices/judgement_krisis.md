@@ -42,6 +42,7 @@ As a refinement of **Metanoia**, **Confession**, **Sanctification**, **Authority
 - Forgiveness pathways opened without coercion (**Forgiveness**)
 - Reduced confusion and moral fog
 - Reality-aligned clarity that resists denial and bypass (**Truth**)
+- Justice-compatible protection and accountability (**Justice**)
 - Perseverance in repair without despair (**Hope**)
 - Safer, more truthful communion
 - Stabilised peace through justice and mercy (**Peace / Eirene**)

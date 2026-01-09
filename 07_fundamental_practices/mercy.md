@@ -41,6 +41,7 @@ As a refinement of **Grace**, **Atonement**, **Confession**, **Judgement (Krisis
 - Stabilised safety in Ground (belonging that can bear exposure)
 - Clear pathways for confession, repentance, restitution, and restoration (**Confession**, **Metanoia**)
 - Opened forgiveness pathways that protect the vulnerable (**Forgiveness**)
+- Justice-compatible protection and repair (**Justice**)
 - Preserved dignity under truthful exposure
 - Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Safer communal coherence and protected communion

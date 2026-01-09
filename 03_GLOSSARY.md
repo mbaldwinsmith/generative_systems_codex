@@ -28,6 +28,8 @@
 
 **Lament** - truthful grief turned toward God that names loss and injustice without bypass, opening space for mercy, justice, and hope.
 
+**Justice** - truthful, mercy-governed repair that protects the vulnerable, names harm, and restores right order without coercion or revenge.
+
 **G / L / P Layers (Ground, Logos, Presence)** - the layered structure of the human system:  
 - **Ground (G)** - belonging, safety, and continuity of self  
 - **Logos (L)** - meaning, conscience, narrative, and truth-making  

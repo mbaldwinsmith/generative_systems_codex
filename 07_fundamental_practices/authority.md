@@ -41,6 +41,7 @@ Authority refines and stabilises:
 - Increased safety for the vulnerable and weak
 - Preserved truthfulness under pressure and manipulation
 - Consent-protecting limits on power through reality alignment (**Truth**)
+- Justice-compatible safeguarding and accountability (**Justice**)
 - Stabilised communal coherence and healthy convergence
 - Restored communal peace as relational safety (**Peace / Eirene**)
 - Repaired and protected communion (**Koinonia**)

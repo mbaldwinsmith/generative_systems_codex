@@ -53,6 +53,7 @@ This is a garden of chapels, not a rulebook.
 | Incarnation | `incarnation.md` |
 | Judgement (Krisis) | `judgement_krisis.md` |
 | Justification | `justification.md` |
+| Justice | `justice.md` |
 | Kenosis | `kenosis.md` |
 | Koinonia (Communion–Fellowship) | `koinonia_communion.md` |
 | Lament | `lament.md` |

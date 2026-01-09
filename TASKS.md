@@ -81,6 +81,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 - [x] Formalise:
   - [x] Judgement (Krisis / Iudicium)
+  - [x] Justice (Dikaiosyne / Iustitia)
   - [x] Discernment (Diakrisis)
   - [x] Wisdom (Sophia)
   - [x] Conscience
@@ -163,6 +164,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Normalized glossary dash usage.
 - [x] Normalized glossary quote artifacts to ASCII.
 - [x] Added Lament to the glossary and cross-linked in suffering and hope.
+- [x] Added Justice to the glossary and cross-linked in authority, mercy, judgement, and peace.
 
 ---
 
@@ -496,6 +498,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - None (Layer Effects refactor pass complete).
 - [ ] Terms requiring special theological/pastoral review:
   - None noted in this batch.
+
 
 
 
