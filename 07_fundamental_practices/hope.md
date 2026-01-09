@@ -20,7 +20,7 @@ As a refinement of **Metanoia**, **Sanctification**, **Vigil**, and **Mercy**, H
 - A human person H = (G, L, P, A) facing time, uncertainty, or delay
 - God’s faithful promise revealed in Christ (**Grace**, **Faith**)
 - Truthful naming of present reality without denial (**Truth**)
-- Lament, grief, and honest sorrow held before God (**Prayer**)
+- Lament, grief, and honest sorrow held before God (**Lament**, **Prayer**)
 - Communal support that refuses isolation (**Koinonia**)
 - Pace, rest, and consented timelines
 
@@ -75,7 +75,7 @@ As a refinement of **Metanoia**, **Sanctification**, **Vigil**, and **Mercy**, H
 - A person says, “I’m not better yet, but I trust God is with me in the long arc.”
 - Communities make room for slow healing without shame or urgency.
 - Leaders refuse to accelerate repentance or growth through pressure.
-- Lament and hope are held together in prayer and worship.
+- Lament and hope are held together in prayer and worship (**Lament**).
 - Safeguarding remains active while patience sustains the journey.
 
 ---

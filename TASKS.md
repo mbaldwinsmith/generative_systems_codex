@@ -114,6 +114,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 - [x] Formalise:
   - [x] Suffering
+  - [x] Lament (Lamentatio)
   - [x] Death
   - [x] Resurrection
   - [x] Heaven
@@ -161,6 +162,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Added Forgiveness to the glossary.
 - [x] Normalized glossary dash usage.
 - [x] Normalized glossary quote artifacts to ASCII.
+- [x] Added Lament to the glossary and cross-linked in suffering and hope.
 
 ---
 
@@ -494,5 +496,6 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - None (Layer Effects refactor pass complete).
 - [ ] Terms requiring special theological/pastoral review:
   - None noted in this batch.
+
 
 

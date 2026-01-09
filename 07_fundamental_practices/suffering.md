@@ -23,7 +23,7 @@ where
 
 This is a containment, accompaniment, and protection field that interrupts vocation rather than replacing it.
 
-Suffering happens to persons; it is never demanded of them. Suffering is not vocation. Suffering is not obedience. Suffering is not salvific by itself. Only love under pressure, freely given and safeguarded, participates in the Cross. This operator is grounded in **Grace**, stabilised by **Mercy** and **Peace**, bounded by **Justice**, sustained by **Hope**, held in **Koinonia**, and guided by **Conscience (Synderesis)**. It is refined through **Prayer**, **Lament (Psalmic grammar)**, **Scripture**, and **Spiritual Direction** so that truth and safety are kept together.
+Suffering happens to persons; it is never demanded of them. Suffering is not vocation. Suffering is not obedience. Suffering is not salvific by itself. Only love under pressure, freely given and safeguarded, participates in the Cross. This operator is grounded in **Grace**, stabilised by **Mercy** and **Peace**, bounded by **Justice**, sustained by **Hope**, held in **Koinonia**, and guided by **Conscience (Synderesis)**. It is refined through **Prayer**, **Lament** (Psalmic grammar), **Scripture**, and **Spiritual Direction** so that truth and safety are kept together.
 
 ---
 
@@ -34,7 +34,7 @@ Suffering happens to persons; it is never demanded of them. Suffering is not voc
 - Need for protection, rest, justice, and accompaniment
 - Consent, boundaries, and safeguarding
 - Medical, social, legal, and communal supports
-- Prayer, lament, Scripture, and presence
+- Prayer, **Lament**, Scripture, and presence
 
 ---
 

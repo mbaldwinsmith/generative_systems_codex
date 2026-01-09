@@ -26,6 +26,8 @@
 
 **Gift-field** - the environment of unearned belonging and divine initiative that precedes effort and makes healing possible; the way grace is experienced as a sustaining field rather than a transaction.
 
+**Lament** - truthful grief turned toward God that names loss and injustice without bypass, opening space for mercy, justice, and hope.
+
 **G / L / P Layers (Ground, Logos, Presence)** - the layered structure of the human system:  
 - **Ground (G)** - belonging, safety, and continuity of self  
 - **Logos (L)** - meaning, conscience, narrative, and truth-making  
