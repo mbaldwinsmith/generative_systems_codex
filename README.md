@@ -66,6 +66,7 @@ It exists to name healing patterns, not to rank or dominate human beings.
 | File | Role |
 |-----|-----|
 | `MANIFESTO.md` | Foundational vision and covenant |
+| `KERYGMA_CODEX_CORE.md` | Root synthesis document |
 | `00_CONSTITUTION.md` | Non-negotiable theological and ethical invariants |
 | `01_TERM_TEMPLATE.md` | Structure for all Codex entries |
 | `02_FORMALISM.md` | Core grammar |
@@ -73,7 +74,7 @@ It exists to name healing patterns, not to rank or dominate human beings.
 | `04_PASTORAL_GUARDRAILS.md` | Safeguarding architecture |
 | `05_CORE_OPERATORS.md` | Grammar of transformation |
 | `06_TESTS_AND_INVARIANTS.md` | Acceptance tests |
-| `07_FUNDAMENTAL_PRACTICES.md` | Lived heart of the Codex |
+| `07_fundamental_practices/_INDEX.md` | Lived heart index |
 | `TASKS.md` | Living workbench |
 
 ---
@@ -108,9 +109,10 @@ See:
 Begin gently:
 
 1. `MANIFESTO.md`  
-2. `07_FUNDAMENTAL_PRACTICES.md`  
-3. `05_CORE_OPERATORS.md`  
-4. `00_CONSTITUTION.md`
+2. `KERYGMA_CODEX_CORE.md`  
+3. `07_fundamental_practices/_INDEX.md`  
+4. `05_CORE_OPERATORS.md`  
+5. `00_CONSTITUTION.md`
 
 Let this be a place of rest, not performance.
 
