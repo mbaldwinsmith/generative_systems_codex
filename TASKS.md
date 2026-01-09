@@ -127,10 +127,14 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 ## Phase 7 — Repair Ecology Case Studies
 
-- [ ] Write 3–5 gentle case studies demonstrating:
-  - trauma-aware formation
-  - non-coercive discipleship
-  - safeguarding-first pastoral care
+- [ ] Write 7 gentle case studies demonstrating:
+  - [ ] the burned-out carer
+  - [ ] the religiously traumatised believer
+  - [ ] the ashamed addict
+  - [ ] the tender mystic
+  - [ ] the exhausted pastor
+  - [ ] the questioning gay Christian
+  - [ ] the silent contemplative
 - [ ] Validate each against pastoral guardrails.
 
 ---
