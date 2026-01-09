@@ -1,6 +1,8 @@
 # A Manifesto for Generative Systems Theology  
 ## The Kerygma Codex
 
+![Kerygma Codex Infographic](Infographic.png)
+
 ---
 
 ## Preamble: For a Faith that Heals, Not Harms

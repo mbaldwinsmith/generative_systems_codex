@@ -3,6 +3,8 @@
 *A cruciform, trauma-aware grammar of Christian formation and communal repair  
 written in analogical systems language*
 
+![Kerygma Codex Infographic](Infographic.png)
+
 ---
 
 ## Welcome
