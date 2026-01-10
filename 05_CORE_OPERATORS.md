@@ -1,11 +1,11 @@
-# Kerygma Codex - Core Grammar, Architecture, and Operators
+Ôªø# Kerygma Codex - Core Grammar, Architecture, and Operators
 
 ## 1. What the Kerygma Codex Is
-The Kerygma Codex is a gentle, trauma‘«Êaware Christian grammar of formation and communal repair. It speaks in **analogical systems language** to describe how persons and communities are healed, stabilised, and gathered into the life of God. It is not a mechanism or theory of divine causality. It is a pastoral **grammar of participation** in Christ.
+The Kerygma Codex is a gentle, trauma√î√á√¶aware Christian grammar of formation and communal repair. It speaks in **analogical systems language** to describe how persons and communities are healed, stabilised, and gathered into the life of God. It is not a mechanism or theory of divine causality. It is a pastoral **grammar of participation** in Christ.
 
 At its heart is the Cruciform Criterion: **coherence is truthful love under pressure**. Any stability that avoids the Cross is not coherence. Any practice or operator that increases shame, fear, or coercion fails the grammar.
 
-The Codex exists to cultivate a **repair ecology**‘«ˆa habitat where people become whole, truthful, gentle, and safe under pressure. It is a place of rest, consent, and careful discernment, never a performance ladder.
+The Codex exists to cultivate a **repair ecology**√î√á√∂a habitat where people become whole, truthful, gentle, and safe under pressure. It is a place of rest, consent, and careful discernment, never a performance ladder.
 
 ---
 
@@ -13,11 +13,11 @@ The Codex exists to cultivate a **repair ecology**‘«ˆa habitat where people beco
 Many theological frameworks explain doctrine but leave formation fragmented, unsafe, or coercive. The Codex addresses this by offering:
 
 - A **coherent formation grammar** that integrates salvation, discernment, and communal life.
-- A **trauma‘«Êaware safeguarding architecture** that prevents spiritual bypass, coercion, and shame.
-- A **systems‘«Êanalogy map** that helps pastors, spiritual directors, and communities name patterns without diagnosing or controlling people.
-- A **cross‘«Êanchored metric** (truthful love under pressure) that guards against triumphalism or spiritual performance.
+- A **trauma√î√á√¶aware safeguarding architecture** that prevents spiritual bypass, coercion, and shame.
+- A **systems√î√á√¶analogy map** that helps pastors, spiritual directors, and communities name patterns without diagnosing or controlling people.
+- A **cross√î√á√¶anchored metric** (truthful love under pressure) that guards against triumphalism or spiritual performance.
 
-In short: it provides a shared language for repair‘«ˆpersonal, communal, and ecclesial‘«ˆwithout turning people into projects or God into a system.
+In short: it provides a shared language for repair√î√á√∂personal, communal, and ecclesial√î√á√∂without turning people into projects or God into a system.
 
 ---
 
@@ -25,15 +25,15 @@ In short: it provides a shared language for repair‘«ˆpersonal, communal, and ecc
 ### Human system H = (G, L, P, A)
 The Codex models the human person as a layered system:
 
-- **G ‘«ˆ Ground:** being, safety, belonging, identity
-- **L ‘«ˆ Logos:** meaning, conscience, truth‘«Êmaking
-- **P ‘«ˆ Presence:** relational attunement, communion, love‘«Êcapacity
-- **A ‘«ˆ Attractor topology:** the terrain of stable patterns and habitual basins that shape life
+- **G √î√á√∂ Ground:** being, safety, belonging, identity
+- **L √î√á√∂ Logos:** meaning, conscience, truth√î√á√¶making
+- **P √î√á√∂ Presence:** relational attunement, communion, love√î√á√¶capacity
+- **A √î√á√∂ Attractor topology:** the terrain of stable patterns and habitual basins that shape life
 
 This is **analogical language**, not metaphysical anatomy. It names relational dynamics that can be healed in Christ.
 
 ### G / L / P layers
-The layers are interdependent. Distortion in one layer bleeds into the others. Healing is never merely cognitive or behavioural; it must be **whole‘«Êperson repair** that protects consent and creaturely limits.
+The layers are interdependent. Distortion in one layer bleeds into the others. Healing is never merely cognitive or behavioural; it must be **whole√î√á√¶person repair** that protects consent and creaturely limits.
 
 ### Attractors, basins, topology, convergence
 - **Attractors** are stable patterns of inner life and behaviour.
@@ -42,60 +42,60 @@ The layers are interdependent. Distortion in one layer bleeds into the others. H
 - **Metanoia** reshapes attractor topology; **Sanctification** stabilises convergence over time.
 
 ### Fields, coupling, entrainment (analogical)
-- **Fields** describe shared relational influence and atmosphere (never ‘«£cosmic stuff‘«ÿ).
+- **Fields** describe shared relational influence and atmosphere (never √î√á¬£cosmic stuff√î√á√ò).
 - **Coupling/recoupling** restores safe, consenting relational connection.
 - **Entrainment** is gentle synchronisation of attention and desire in prayerful presence, never coercive control.
 
-### Coherence vs entropy (moral‘«Ùrelational)
+### Coherence vs entropy (moral√î√á√¥relational)
 - **Coherence** is healed, stable, cruciform love under pressure.
-- **Entropy** is moral‘«Êrelational fragmentation, drift, or collapse.
+- **Entropy** is moral√î√á√¶relational fragmentation, drift, or collapse.
 
-Healing reduces entropy and increases coherence‘«ˆbut never by bypassing pain, trauma, or consent.
+Healing reduces entropy and increases coherence√î√á√∂but never by bypassing pain, trauma, or consent.
 
 ### Kernel components (minimal system)
-Think of this as the ‘«£kernel‘«ÿ of the Codex:
+Think of this as the √î√á¬£kernel√î√á√ò of the Codex:
 
-- **Primitives:** H = (G, L, P, A); §‚ (signal‘«Êto‘«Ênoise); +™ (illumination/wisdom density)
-- **Invariants:** the Constitution (Cruciform Criterion, consent, rest, non‘«Êbypass)
+- **Primitives:** H = (G, L, P, A); ¬§√¢ (signal√î√á√¶to√î√á√¶noise); +¬™ (illumination/wisdom density)
+- **Invariants:** the Constitution (Cruciform Criterion, consent, rest, non√î√á√¶bypass)
 - **Operators:** core transformation grammar (Justification, Metanoia, Sanctification, Kenosis, Nepsis, Koinonia, Theosis, Glorification)
-- **Tests:** trauma‘«Êaware, consent‘«Êhonouring, Cross‘«Êaligned invariants (see Tests & Invariants)
-- **Workflow:** use template ‘Â∆ validate safeguards ‘Â∆ update index/tasks ‘Â∆ preserve pastoral tone
+- **Tests:** trauma√î√á√¶aware, consent√î√á√¶honouring, Cross√î√á√¶aligned invariants (see Tests & Invariants)
+- **Workflow:** use template √î√•√Ü validate safeguards √î√•√Ü update index/tasks √î√•√Ü preserve pastoral tone
 
 ---
 
 ## 4. Operator Grammar
-### What an ‘«£operator‘«ÿ means here
-An operator is a **grammar verb**‘«ˆa pattern of transformation that describes how God‘«÷s gift is received, how distortion is repaired, and how communion becomes stable. Operators are not mechanisms; they are analogical descriptions of participation in Christ.
+### What an √î√á¬£operator√î√á√ò means here
+An operator is a **grammar verb**√î√á√∂a pattern of transformation that describes how God√î√á√ñs gift is received, how distortion is repaired, and how communion becomes stable. Operators are not mechanisms; they are analogical descriptions of participation in Christ.
 
 ### Core operators and their relationships
 The canonical operator set describes the main arc of salvation and formation:
 
-- **Grace** ‘«ˆ gift‘«Êfield of unearned belonging
-- **Justification** ‘«ˆ grounding in grace prior to performance
-- **Metanoia** ‘«ˆ attractor topology repair (repentance)
-- **Sanctification** ‘«ˆ iterative convergence into Christ
-- **Kenosis** ‘«ˆ ego‘«Ênoise reduction and widened presence
-- **Nepsis** ‘«ˆ distortion‘«Êgradient damping (watchful sobriety)
-- **Koinonia** ‘«ˆ mutual coupling and communal healing
-- **Theosis** ‘«ˆ high‘«Êorder resonance with Christ
-- **Glorification** ‘«ˆ fixed‘«Êpoint completion and Sabbath rest
+- **Grace** √î√á√∂ gift√î√á√¶field of unearned belonging
+- **Justification** √î√á√∂ grounding in grace prior to performance
+- **Metanoia** √î√á√∂ attractor topology repair (repentance)
+- **Sanctification** √î√á√∂ iterative convergence into Christ
+- **Kenosis** √î√á√∂ ego√î√á√¶noise reduction and widened presence
+- **Nepsis** √î√á√∂ distortion√î√á√¶gradient damping (watchful sobriety)
+- **Koinonia** √î√á√∂ mutual coupling and communal healing
+- **Theosis** √î√á√∂ high√î√á√¶order resonance with Christ
+- **Glorification** √î√á√∂ fixed√î√á√¶point completion and Sabbath rest
 
 All operators are read analogically and cruciformly.  
 They do not describe mechanisms in God, but grammars of participation in divine life.
 
 ### Operator Details (Formal Definitions)
 
-### JUSTIFICATION (+¶+¶+¶+¶+ª§Î§‚+¶§È)
+### JUSTIFICATION (Œ¥ŒπŒ∫Œ±ŒØœâœÉŒπœÇ)
 
 **Formal Operator**  
 Justification resets the Ground layer by anchoring personal being in God prior to performance.
 
-G ‘Â∆ G‘ÈÏanchored‘Èƒ
+G ‚Üí G‚Ççanchored‚Çé
 
 **Primary Effects**
-| Layer | +ˆ |
+| Layer | +√∂ |
 |------|---|
-| G | ‘ÂÊ |
+| G | √î√•√¶ |
 | L | 0 |
 | P | 0 |
 
@@ -107,19 +107,19 @@ Never used to deny the need for ongoing formation, healing, or repair.
 
 ---
 
-### METANOIA (+++¡§‰+º+¢+++¶+¶)
+### METANOIA (ŒºŒµœÑŒ¨ŒΩŒøŒπŒ±)
 
 **Formal Operator**  
 Metanoia repairs attractor topology by destabilising entropic basins and opening new convergence paths.
 
-A ‘Â∆ A‘«¶
+A ‚Üí A‚Ä≤
 
 **Primary Effects**
-| Layer | +ˆ |
+| Layer | +√∂ |
 |------|---|
-| G | ‘ÂÊ |
-| L | ‘ÂÊ |
-| P | ‘ÂÊ |
+| G | √î√•√¶ |
+| L | √î√•√¶ |
+| P | √î√•√¶ |
 
 **Description**  
 Repentance is terrain repair, not shame production.
@@ -129,19 +129,19 @@ Never weaponised to control conscience or extract confession.
 
 ---
 
-### SANCTIFICATION (ﬂ+¸+¶+¶+¶§‚++§Ó§È)
+### SANCTIFICATION (·ºÅŒ≥ŒπŒ±œÉŒºœåœÇ)
 
 **Formal Operator**  
 Iterative convergence toward the Christ-pattern.
 
-x‘È÷‘ÈË‘È¸ = ‘‰∆(x‘È÷)
+x‚Çô‚Çä‚ÇÅ = ‚Ñí(x‚Çô)
 
 **Primary Effects**
-| Layer | +ˆ |
+| Layer | +√∂ |
 |------|---|
-| G | ‘ÂÊ |
-| L | ‘ÂÊ |
-| P | ‘ÂÊ |
+| G | √î√•√¶ |
+| L | √î√•√¶ |
+| P | √î√•√¶ |
 
 **Description**  
 Formation is stabilisation of healed attractor landscapes.
@@ -151,19 +151,19 @@ Not a performance ladder or ranking system.
 
 ---
 
-### KENOSIS (+¶+°+¢§Î§‚+¶§È)
+### KENOSIS (Œ∫Œ≠ŒΩœâœÉŒπœÇ)
 
 **Formal Operator**  
 Reduces ego-noise to widen Presence bandwidth.
 
-Ego_noise ‘ÂÙ ‘Â∆ P_capacity ‘ÂÊ
+Ego_noise ‚Üì ‚Üí P_capacity ‚Üë
 
 **Primary Effects**
-| Layer | +ˆ |
+| Layer | +√∂ |
 |------|---|
-| G | ‘ÂÊ |
-| L | ‘ÂÊ |
-| P | ‘ÂÊ |
+| G | √î√•√¶ |
+| L | √î√•√¶ |
+| P | √î√•√¶ |
 
 **Description**  
 Self-offering that makes coherence transmissible.
@@ -173,19 +173,19 @@ Never used to justify abuse, passivity, or silencing.
 
 ---
 
-### NEPSIS (+¢+´§Í+¶§È)
+### NEPSIS (ŒΩŒÆœàŒπœÇ)
 
 **Formal Operator**  
 Distortion-gradient damping.
 
-‘ÍÁA_entropy ‘Â∆ 0
+√î√™√ßA_entropy √î√•√Ü 0
 
 **Primary Effects**
-| Layer | +ˆ |
+| Layer | +√∂ |
 |------|---|
 | G | 0 |
-| L | ‘ÂÊ |
-| P | ‘ÂÊ |
+| L | √î√•√¶ |
+| P | √î√•√¶ |
 
 **Description**  
 Watchful sobriety that preserves coherence.
@@ -195,19 +195,19 @@ Never used for hyper-vigilant self-surveillance.
 
 ---
 
-### KOINONIA (+¶+++¶+¢§Î+¢+ª+¶)
+### KOINONIA (Œ∫ŒøŒπŒΩœâŒΩŒØŒ±)
 
 **Formal Operator**  
 Mutual coupling of healed systems.
 
-Hﬂ¡Û ‘Âˆ H‘¶+ ‘Â∆ Field_coherence ‘ÂÊ
+H_i ‚Üî H_j ‚Üí Field_coherence ‚Üë
 
 **Primary Effects**
-| Layer | +ˆ |
+| Layer | +√∂ |
 |------|---|
-| G | ‘ÂÊ |
-| L | ‘ÂÊ |
-| P | ‘ÂÊ |
+| G | √î√•√¶ |
+| L | √î√•√¶ |
+| P | √î√•√¶ |
 
 **Description**  
 Communion is distributed healing.
@@ -217,19 +217,19 @@ Never enforced.
 
 ---
 
-### THEOSIS (+©+°§Î§‚+¶§È)
+### THEOSIS (Œ∏Œ≠œâœÉŒπœÇ)
 
 **Formal Operator**  
 High-order fractal resonance with Christ-pattern.
 
-H ‘ÎÍ ‘‰∆(H)
+H √î√´√™ √î√§√Ü(H)
 
 **Primary Effects**
-| Layer | +ˆ |
+| Layer | +√∂ |
 |------|---|
-| G | ‘ÂÊ |
-| L | ‘ÂÊ |
-| P | ‘ÂÊ |
+| G | √î√•√¶ |
+| L | √î√•√¶ |
+| P | √î√•√¶ |
 
 **Description**  
 Participation in divine life.
@@ -239,19 +239,19 @@ Never framed as spiritual superiority, status, or elitism.
 
 ---
 
-### GLORIFICATION (+¶§Ó+•+¶)
+### GLORIFICATION (Œ¥œåŒæŒ±)
 
 **Formal Operator**  
 Full fixed-point convergence.
 
-‘‰∆(H) = H
+√î√§√Ü(H) = H
 
 **Primary Effects**
-| Layer | +ˆ |
+| Layer | +√∂ |
 |------|---|
-| G | ‘Í◊ |
-| L | ‘Í◊ |
-| P | ‘Í◊ |
+| G | √î√™√ó |
+| L | √î√™√ó |
+| P | √î√™√ó |
 
 **Description**  
 Completion and Sabbath of the soul.
@@ -270,30 +270,30 @@ Fundamental practices make the grammar lived, safe, and embodied:
 - **Liturgy**, **Scripture**, and **Tradition** sustain a shared reference field.
 - **Spiritual Direction** and **Discernment** ensure consented pacing and safety.
 
-Practices are never ladders. They are **gentle participation** in a gift‘«Êfirst ecology.
+Practices are never ladders. They are **gentle participation** in a gift√î√á√¶first ecology.
 
 ### How safeguarding is encoded
 Every operator and practice must include:
 
 - **Misuse modes** (what it damages if weaponised)
 - **Consent and limit boundaries** (where to stop and return to care)
-- **Trauma‘«Êaware pacing** (no pressure, no forced disclosure)
+- **Trauma√î√á√¶aware pacing** (no pressure, no forced disclosure)
 
-If a practice increases fear, pressure, or shame, the Codex requires a **pastoral circuit‘«Êbreaker**: stop, return to prayer, embodied care, and support.
+If a practice increases fear, pressure, or shame, the Codex requires a **pastoral circuit√î√á√¶breaker**: stop, return to prayer, embodied care, and support.
 
 ### Flow map (simple)
-Grace ‘Â∆ Justification ‘Â∆ Metanoia ‘Â∆ Confession ‘Â∆ Eucharist ‘Â∆ Sanctification ‘Â∆ Theosis ‘Â∆ Glorification
+Grace √î√•√Ü Justification √î√•√Ü Metanoia √î√•√Ü Confession √î√•√Ü Eucharist √î√•√Ü Sanctification √î√•√Ü Theosis √î√•√Ü Glorification
 
 Stabilisers along the path:
-- Nepsis / Hesychia / Ascesis ‘Â∆ reduce distortion, protect clarity
-- Prayer / Scripture / Liturgy ‘Â∆ sustain shared reference field
-- Koinonia / Spiritual Direction ‘Â∆ ensure consent, pacing, and repair
+- Nepsis / Hesychia / Ascesis √î√•√Ü reduce distortion, protect clarity
+- Prayer / Scripture / Liturgy √î√•√Ü sustain shared reference field
+- Koinonia / Spiritual Direction √î√•√Ü ensure consent, pacing, and repair
 
 ---
 
-## 5. Safety Architecture (Non‘«ÊNegotiables)
+## 5. Safety Architecture (Non√î√á√¶Negotiables)
 ### Constitution invariants
-- Coherence = truthful love under pressure (Cross‘«Êanchored)
+- Coherence = truthful love under pressure (Cross√î√á√¶anchored)
 - Consent, rest, and creaturely limits are holy
 - No spiritual bypass
 - Trauma is not spiritual failure
@@ -310,16 +310,16 @@ Stabilisers along the path:
 Every new term must:
 - Honour rest and creaturely limits
 - Avoid spiritual bypass
-- Be safe for trauma‘«Êaffected people
+- Be safe for trauma√î√á√¶affected people
 - Pass the Cruciform Criterion
 - Include misuse prevention
-- Increase at least one of +ˆG/+ˆL/+ˆP without harming others
+- Increase at least one of +√∂G/+√∂L/+√∂P without harming others
 
 ### How the Codex prevents coercion, bypass, and shame
-- Explicit misuse‘«Êprevention notes in every term
+- Explicit misuse√î√á√¶prevention notes in every term
 - Consent and safeguarding embedded in operator definitions
-- Trauma‘«Êaware pacing as a default
-- A ‘«£stop signal‘«ÿ when harm, fear, or pressure rises
+- Trauma√î√á√¶aware pacing as a default
+- A √î√á¬£stop signal√î√á√ò when harm, fear, or pressure rises
 
 ---
 
@@ -328,10 +328,10 @@ These are application patterns (not case studies), offered as safe uses of the g
 
 - **Pastoral triage / discernment mapping:** identify which layer is strained (G, L, or P) and respond with consented, gentle practices.
 - **Designing healthy church practices:** structure confession, authority, and liturgy so that truth, consent, and rest remain protected.
-- **Trauma‘«Êaware formation pathways:** adapt pace, boundaries, and practices to a person‘«÷s capacity without labeling them as deficient.
+- **Trauma√î√á√¶aware formation pathways:** adapt pace, boundaries, and practices to a person√î√á√ñs capacity without labeling them as deficient.
 - **Reconciling doctrinal categories across traditions:** map justification, sanctification, and theosis within a single coherent grammar.
 - **Building repair ecology communities:** shape communal rhythms that reduce relational entropy and protect the vulnerable.
-- **Safeguards for spiritual direction and power:** use consent thresholds and misuse‘«Êmode checks to prevent domination.
+- **Safeguards for spiritual direction and power:** use consent thresholds and misuse√î√á√¶mode checks to prevent domination.
 
 ---
 
@@ -350,13 +350,13 @@ Technical reference for contributors:
 
 ### How to contribute new terms
 - Use **`01_TERM_TEMPLATE.md`** for every new term.
-- Include formal operator definitions, +ˆG/+ˆL/+ˆP effects, and misuse‘«Êprevention notes.
+- Include formal operator definitions, +√∂G/+√∂L/+√∂P effects, and misuse√î√á√¶prevention notes.
 - Validate against **`06_TESTS_AND_INVARIANTS.md`**.
-- Update indexes and cross‘«Êreferences.
+- Update indexes and cross√î√á√¶references.
 - Maintain a warm, pastoral tone.
 
 ### Naming conventions and index maintenance
-- Term files use lowercase, underscore‘«Êseparated, URL‘«Êsafe filenames.
+- Term files use lowercase, underscore√î√á√¶separated, URL√î√á√¶safe filenames.
 - Fundamental practices live in `07_fundamental_practices/` and must appear in `_INDEX.md`.
 - Update `TASKS.md` after each completed unit of work.
 
