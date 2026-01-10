@@ -166,6 +166,9 @@ These are application patterns (not case studies), offered as safe uses of the g
 6. `06_TESTS_AND_INVARIANTS.md`
 7. `TASKS.md`
 
+Technical reference for contributors:
+- `SYSTEM_SPEC.md`
+
 ### How to contribute new terms
 - Use **`01_TERM_TEMPLATE.md`** for every new term.
 - Include formal operator definitions, ΔG/ΔL/ΔP effects, and misuse‑prevention notes.

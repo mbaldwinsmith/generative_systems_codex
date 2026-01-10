@@ -69,6 +69,7 @@ It exists to name healing patterns, not to rank or dominate human beings.
 | `INTRODUCTION.md` | Gentle overview and orientation |
 | `MANIFESTO.md` | Foundational vision and covenant |
 | `KERYGMA_CODEX_CORE.md` | Root synthesis document |
+| `SYSTEM_SPEC.md` | Formal system specification (technical reference) |
 | `00_CONSTITUTION.md` | Non-negotiable theological and ethical invariants |
 | `01_TERM_TEMPLATE.md` | Structure for all Codex entries |
 | `02_FORMALISM.md` | Core grammar |

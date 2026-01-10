@@ -21,6 +21,9 @@ These are binding:
 - `07_fundamental_practices/_INDEX.md`
 - `TASKS.md`
 
+Additional contributor references:
+- `SYSTEM_SPEC.md`
+
 ## Workflow
 1. Check `TASKS.md` and choose the highest-priority incomplete task.
 2. Draft new terms using `01_TERM_TEMPLATE.md`.

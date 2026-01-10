@@ -145,6 +145,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Create contributor guidelines.
 - [x] Add versioning and changelog.
 - [x] Add introduction references (README, KERYGMA_CODEX_CORE, CONTRIBUTING, MANIFESTO, 07_fundamental_practices/_INDEX.md); confirm filename (INTRODUCTON vs INTRODUCTION).
+- [x] Add `SYSTEM_SPEC.md` and link it from core contributor-facing docs.
 - [ ] Establish stewardship practices.
 
 ---

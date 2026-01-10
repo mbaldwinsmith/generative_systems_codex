@@ -16,6 +16,7 @@ Added:
 - Repair ecology case studies in `case_studies/`.
 - New practices added after core passes: Forgiveness, Church / Ekklesia, Waiting, Lament, Justice.
 - Root synthesis file `KERYGMA_CODEX_CORE.md` and expanded cross-reference passes.
+- Formal system specification document `SYSTEM_SPEC.md`.
 
 Changed:
 - Fundamental practices index structure aligned to `07_fundamental_practices/_INDEX.md`.
