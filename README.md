@@ -11,7 +11,7 @@ written in analogical systems language*
 
 The **Kerygma Codex** is a gentle, safeguarding-first grammar for Christian formation.
 
-It exists to cultivate what it calls a **repair ecology** ‚Äî  
+It exists to cultivate what it calls a **repair ecology** ‘«ˆ  
 a living habitat where human beings can become whole, truthful, gentle, and safe under pressure.
 
 This Codex does not offer a programme to run, a ladder to climb, or a system to master.  
@@ -30,20 +30,20 @@ The Kerygma Codex is a pastoral-theological commons that uses systems-science me
 
 Within this grammar:
 
-‚Ä¢ salvation is understood as **coherence repair in Christ**  
-‚Ä¢ formation is participatory, not performative  
-‚Ä¢ stability is measured by cruciform love, not spiritual output  
-‚Ä¢ safeguarding is structural, not optional  
+‘«Û salvation is understood as **coherence repair in Christ**  
+‘«Û formation is participatory, not performative  
+‘«Û stability is measured by cruciform love, not spiritual output  
+‘«Û safeguarding is structural, not optional  
 
 The human person is modelled analogically as a layered system:
 
-- **Ground (G)** ‚Äî being, safety, belonging  
-- **Logos (L)** ‚Äî meaning, conscience, truth  
-- **Presence (P)** ‚Äî relational aliveness and communion  
+- **Ground (G)** ‘«ˆ being, safety, belonging  
+- **Logos (L)** ‘«ˆ meaning, conscience, truth  
+- **Presence (P)** ‘«ˆ relational aliveness and communion  
 
 All coherence is measured by one criterion:
 
-> **Truthful love that remains gentle under pressure ‚Äî the Cross.**
+> **Truthful love that remains gentle under pressure ‘«ˆ the Cross.**
 
 ---
 
@@ -55,7 +55,7 @@ This Codex is not:
 - a behaviour-optimisation tool  
 - a self-improvement programme  
 - a diagnostic system for other people  
-- a mechanism that attempts to ‚Äúmake God act‚Äù  
+- a mechanism that attempts to ‘«£make God act‘«ÿ  
 
 It is a grammar of participation, not control.  
 It exists to name healing patterns, not to rank or dominate human beings.
@@ -68,14 +68,13 @@ It exists to name healing patterns, not to rank or dominate human beings.
 |-----|-----|
 | `INTRODUCTION.md` | Gentle overview and orientation |
 | `MANIFESTO.md` | Foundational vision and covenant |
-| `KERYGMA_CODEX_CORE.md` | Root synthesis document |
+| `05_CORE_OPERATORS.md` | Core grammar, architecture, and operators |
 | `SYSTEM_SPEC.md` | Formal system specification (technical reference) |
 | `00_CONSTITUTION.md` | Non-negotiable theological and ethical invariants |
 | `01_TERM_TEMPLATE.md` | Structure for all Codex entries |
 | `02_FORMALISM.md` | Core grammar |
 | `03_GLOSSARY.md` | Canonical vocabulary |
 | `04_PASTORAL_GUARDRAILS.md` | Safeguarding architecture |
-| `05_CORE_OPERATORS.md` | Grammar of transformation |
 | `06_TESTS_AND_INVARIANTS.md` | Acceptance tests |
 | `07_fundamental_practices/_INDEX.md` | Lived heart index |
 | `TASKS.md` | Living workbench |
@@ -113,10 +112,9 @@ Begin gently:
 
 1. `INTRODUCTION.md`  
 2. `MANIFESTO.md`  
-3. `KERYGMA_CODEX_CORE.md`  
+3. `05_CORE_OPERATORS.md`  
 4. `07_fundamental_practices/_INDEX.md`  
-5. `05_CORE_OPERATORS.md`  
-6. `00_CONSTITUTION.md`
+5. `00_CONSTITUTION.md`
 
 Let this be a place of rest, not performance.
 
@@ -124,10 +122,10 @@ Let this be a place of rest, not performance.
 
 ## A Final Word
 
-This Codex exists to cultivate a **garden of chapels** ‚Äî  
+This Codex exists to cultivate a **garden of chapels** ‘«ˆ  
 a repair ecology of safety, consent, truthful love, and gentle formation.
 
 If your engagement with this work makes you feel smaller, more afraid, or more pressured,  
 pause. Rest. Return to simple prayer and embodied care.
 
-*Please keep it gentle.* üåø
+*Please keep it gentle.* ≠ÉÓ+

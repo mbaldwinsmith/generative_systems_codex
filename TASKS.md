@@ -141,10 +141,11 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 - [ ] Review LICENSE.md and ETHICAL_USE_ADDENDUM.md annually.
 - [x] Standardize project title references to Kerygma Codex across the repository.
-- [x] Create `KERYGMA_CODEX_CORE.md` root synthesis document.
+- [x] Create `05_CORE_OPERATORS.md` root synthesis document.
 - [x] Create contributor guidelines.
 - [x] Add versioning and changelog.
-- [x] Add introduction references (README, KERYGMA_CODEX_CORE, CONTRIBUTING, MANIFESTO, 07_fundamental_practices/_INDEX.md); confirm filename (INTRODUCTON vs INTRODUCTION).
+- [x] Add introduction references (README, 05_CORE_OPERATORS, CONTRIBUTING, MANIFESTO, 07_fundamental_practices/_INDEX.md); confirm filename (INTRODUCTON vs INTRODUCTION).
+- [x] Merge prior core synthesis content into `05_CORE_OPERATORS.md` and update references.
 - [x] Add `SYSTEM_SPEC.md` and link it from core contributor-facing docs.
 - [ ] Establish stewardship practices.
 
@@ -159,7 +160,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 ## Follow-up Notes (Post-Synthesis)
 
 - [x] Align glossary filename references (`03_GLOSSARY.md` vs `03_GLOSSSARY.md`) across docs.
-- [x] Add `KERYGMA_CODEX_CORE.md` to README core architecture list and recommended reading path.
+- [x] Add `05_CORE_OPERATORS.md` to README core architecture list and recommended reading path.
 - [x] Completed integration of Marriage and Celibacy as vocational configurations under Vocation.
 - [x] Added Forgiveness cross-references in confession, mercy, and peace.
 - [x] Added Forgiveness cross-references in judgement, truth, hope, and koinonia.

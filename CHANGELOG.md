@@ -15,14 +15,15 @@ Added:
 - Full Fundamental Practices set across salvation, formation, ecclesial life, and discernment.
 - Repair ecology case studies in `case_studies/`.
 - New practices added after core passes: Forgiveness, Church / Ekklesia, Waiting, Lament, Justice.
-- Root synthesis file `KERYGMA_CODEX_CORE.md` and expanded cross-reference passes.
+- Root synthesis file `05_CORE_OPERATORS.md` and expanded cross-reference passes.
 - Formal system specification document `SYSTEM_SPEC.md`.
 
 Changed:
 - Fundamental practices index structure aligned to `07_fundamental_practices/_INDEX.md`.
 - Truth and Hope integration passes across core terms.
 - Layer Effects refactor passes across Fundamental Practices.
-- Renamed `INTRODUCTON.md` to `INTRODUCTION.md` and linked it from `README.md`, `KERYGMA_CODEX_CORE.md`, `CONTRIBUTING.md`, `MANIFESTO.md`, and `07_fundamental_practices/_INDEX.md`.
+- Merged core synthesis content into `05_CORE_OPERATORS.md`, removed the prior core summary file, and updated references.
+- Renamed `INTRODUCTON.md` to `INTRODUCTION.md` and linked it from `README.md`, `05_CORE_OPERATORS.md`, `CONTRIBUTING.md`, `MANIFESTO.md`, and `07_fundamental_practices/_INDEX.md`.
 
 Fixed:
 - Glossary filename alignment and glossary cleanup.
